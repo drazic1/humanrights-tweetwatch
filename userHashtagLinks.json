@@ -1,0 +1,5406 @@
+[
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 43
+	},
+	{
+		"source" : "iran_policy",
+		"source_type" : "user",
+		"target" : "FreeThe7",
+		"target_type" : "hashtag",
+		"count" : 36
+	},
+	{
+		"source" : "iran_policy",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 35
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 24
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 23
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "egypt",
+		"target_type" : "hashtag",
+		"count" : 22
+	},
+	{
+		"source" : "A_Metropolitana",
+		"source_type" : "user",
+		"target" : "DamosLaCaraPorCCs",
+		"target_type" : "hashtag",
+		"count" : 20
+	},
+	{
+		"source" : "mintel2011",
+		"source_type" : "user",
+		"target" : "China",
+		"target_type" : "hashtag",
+		"count" : 19
+	},
+	{
+		"source" : "ohsanra",
+		"source_type" : "user",
+		"target" : "China",
+		"target_type" : "hashtag",
+		"count" : 19
+	},
+	{
+		"source" : "ohsanra",
+		"source_type" : "user",
+		"target" : "Hongkong",
+		"target_type" : "hashtag",
+		"count" : 19
+	},
+	{
+		"source" : "ohsanra",
+		"source_type" : "user",
+		"target" : "Chinese",
+		"target_type" : "hashtag",
+		"count" : 19
+	},
+	{
+		"source" : "ConocedLaVerdad",
+		"source_type" : "user",
+		"target" : "AlHombreMasBello",
+		"target_type" : "hashtag",
+		"count" : 19
+	},
+	{
+		"source" : "mintel2011",
+		"source_type" : "user",
+		"target" : "Chinese",
+		"target_type" : "hashtag",
+		"count" : 18
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 17
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "MOI",
+		"target_type" : "hashtag",
+		"count" : 16
+	},
+	{
+		"source" : "ciudadaniactiva",
+		"source_type" : "user",
+		"target" : "2D",
+		"target_type" : "hashtag",
+		"count" : 15
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "BusinessForum",
+		"target_type" : "hashtag",
+		"count" : 13
+	},
+	{
+		"source" : "AmnestyOnline",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 13
+	},
+	{
+		"source" : "NABEELRAJAB",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 12
+	},
+	{
+		"source" : "iran_policy",
+		"source_type" : "user",
+		"target" : "Iran",
+		"target_type" : "hashtag",
+		"count" : 12
+	},
+	{
+		"source" : "MARYAMALKHAWAJA",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 10
+	},
+	{
+		"source" : "mikalinc",
+		"source_type" : "user",
+		"target" : "Hongkong",
+		"target_type" : "hashtag",
+		"count" : 9
+	},
+	{
+		"source" : "ICD_Egypt",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 9
+	},
+	{
+		"source" : "ohsanra",
+		"source_type" : "user",
+		"target" : "Beijing",
+		"target_type" : "hashtag",
+		"count" : 9
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "dostor",
+		"target_type" : "hashtag",
+		"count" : 9
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "Humanrights",
+		"target_type" : "hashtag",
+		"count" : 8
+	},
+	{
+		"source" : "iran_policy",
+		"source_type" : "user",
+		"target" : "No2Rouhani",
+		"target_type" : "hashtag",
+		"count" : 7
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "TerroristIsrael",
+		"target_type" : "hashtag",
+		"count" : 7
+	},
+	{
+		"source" : "tublani2010",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 7
+	},
+	{
+		"source" : "mintel2011",
+		"source_type" : "user",
+		"target" : "Hongkong",
+		"target_type" : "hashtag",
+		"count" : 6
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "Palestine",
+		"target_type" : "hashtag",
+		"count" : 6
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 5
+	},
+	{
+		"source" : "mikalinc",
+		"source_type" : "user",
+		"target" : "China",
+		"target_type" : "hashtag",
+		"count" : 5
+	},
+	{
+		"source" : "mikalinc",
+		"source_type" : "user",
+		"target" : "Chinese",
+		"target_type" : "hashtag",
+		"count" : 5
+	},
+	{
+		"source" : "iran_policy",
+		"source_type" : "user",
+		"target" : "BlackFriday",
+		"target_type" : "hashtag",
+		"count" : 5
+	},
+	{
+		"source" : "coach_amor",
+		"source_type" : "user",
+		"target" : "empinados",
+		"target_type" : "hashtag",
+		"count" : 5
+	},
+	{
+		"source" : "TeLoCambioPor",
+		"source_type" : "user",
+		"target" : "AutosTLC",
+		"target_type" : "hashtag",
+		"count" : 5
+	},
+	{
+		"source" : "maytetuguia",
+		"source_type" : "user",
+		"target" : "AccesoriosMayte",
+		"target_type" : "hashtag",
+		"count" : 5
+	},
+	{
+		"source" : "Zeinobia",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 4
+	},
+	{
+		"source" : "elimin8prejudic",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 4
+	},
+	{
+		"source" : "Ciencia_UNAM",
+		"source_type" : "user",
+		"target" : "BodyWorldsVital",
+		"target_type" : "hashtag",
+		"count" : 4
+	},
+	{
+		"source" : "UN_News_Centre",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 4
+	},
+	{
+		"source" : "GlobalFundWomen",
+		"source_type" : "user",
+		"target" : "WHRDs",
+		"target_type" : "hashtag",
+		"count" : 4
+	},
+	{
+		"source" : "14FebRevolution",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 4
+	},
+	{
+		"source" : "14FebRevolution",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 4
+	},
+	{
+		"source" : "BahrainRights",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 4
+	},
+	{
+		"source" : "iran_policy",
+		"source_type" : "user",
+		"target" : "iran",
+		"target_type" : "hashtag",
+		"count" : 4
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "Palestinians",
+		"target_type" : "hashtag",
+		"count" : 4
+	},
+	{
+		"source" : "exagdl",
+		"source_type" : "user",
+		"target" : "ElExametro",
+		"target_type" : "hashtag",
+		"count" : 4
+	},
+	{
+		"source" : "tublani2010",
+		"source_type" : "user",
+		"target" : "WHRD",
+		"target_type" : "hashtag",
+		"count" : 4
+	},
+	{
+		"source" : "amnesty",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "PoetaCalle",
+		"source_type" : "user",
+		"target" : "MYBABY",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "NABEELRAJAB",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "977_fm",
+		"source_type" : "user",
+		"target" : "PaulWalker",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "PRI_Nacional",
+		"source_type" : "user",
+		"target" : "TransformandoMx",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "GlobalFundWomen",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "GlobalFundWomen",
+		"source_type" : "user",
+		"target" : "women",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "geysar",
+		"source_type" : "user",
+		"target" : "Armenia",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "geysar",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "MohdMaskati",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "14FebRevolution",
+		"source_type" : "user",
+		"target" : "Wanted",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "14FebRevolution",
+		"source_type" : "user",
+		"target" : "EndImpunity",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "14FebRevolution",
+		"source_type" : "user",
+		"target" : "Ue",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "14FebRevolution",
+		"source_type" : "user",
+		"target" : "GCC",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "diegoscharifker",
+		"source_type" : "user",
+		"target" : "8D",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "diegoscharifker",
+		"source_type" : "user",
+		"target" : "QueNadaTeDetenga",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "Bahrani_Lion",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "TatianaLaurens",
+		"source_type" : "user",
+		"target" : "SLF",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "ciudadaniactiva",
+		"source_type" : "user",
+		"target" : "Vota8D",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "KenRoth",
+		"source_type" : "user",
+		"target" : "China",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "degewa",
+		"source_type" : "user",
+		"target" : "Tibet",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "IOF",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "cairo",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "seksek",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 3
+	},
+	{
+		"source" : "witnessorg",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "SukhSandhu",
+		"source_type" : "user",
+		"target" : "Animals",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "SukhSandhu",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "SukhSandhu",
+		"source_type" : "user",
+		"target" : "Animalrights",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "telva",
+		"source_type" : "user",
+		"target" : "FiestaTELVAmoda",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "dailynation",
+		"source_type" : "user",
+		"target" : "Afghanistan",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "accountability",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "PTIofficial",
+		"source_type" : "user",
+		"target" : "IKonAbbTak",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "NABEELRAJAB",
+		"source_type" : "user",
+		"target" : "Nabeel",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "NABEELRAJAB",
+		"source_type" : "user",
+		"target" : "waitingfornabeel",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "WBPictures_Mx",
+		"source_type" : "user",
+		"target" : "UnCuentoDeInvierno",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "monaeltahawy",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "Zeinobia",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "DaniRemigio",
+		"source_type" : "user",
+		"target" : "RT",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "Juezcentral",
+		"source_type" : "user",
+		"target" : "VIDEO",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "RevolutionSyria",
+		"source_type" : "user",
+		"target" : "Syria",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "natybotero",
+		"source_type" : "user",
+		"target" : "NatyBotero",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "1DfactsOMG",
+		"source_type" : "user",
+		"target" : "1DFactsOMG",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "ACBCOM",
+		"source_type" : "user",
+		"target" : "30añosdefasesfinales",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "JdeJodido",
+		"source_type" : "user",
+		"target" : "RT",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "NiallsNotes",
+		"source_type" : "user",
+		"target" : "NiallsNotes",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "Ikhwanweb",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "Dusunce_Rehberi",
+		"source_type" : "user",
+		"target" : "HürTeşebbüseDARBE",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "البحرين",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "un",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "waitingfornabeel",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "MBrotherhoodUK",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "CanalTR3CE",
+		"source_type" : "user",
+		"target" : "ElGranFan",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "barcelona_cat",
+		"source_type" : "user",
+		"target" : "plebcn",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "Ciencia_UNAM",
+		"source_type" : "user",
+		"target" : "SabíasQue",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "Hechos_1DBTR",
+		"source_type" : "user",
+		"target" : "H1DBTR",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "PepsiMEX",
+		"source_type" : "user",
+		"target" : "ViveHoy",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "geysar",
+		"source_type" : "user",
+		"target" : "Putinism",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "geysar",
+		"source_type" : "user",
+		"target" : "Russia",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "AUDITORIOTELMEX",
+		"source_type" : "user",
+		"target" : "ElEvento40GDL",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "ConCdeChristian",
+		"source_type" : "user",
+		"target" : "RT",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "MENDEZMARY55",
+		"source_type" : "user",
+		"target" : "OJO",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "MENDEZMARY55",
+		"source_type" : "user",
+		"target" : "TodasParaUno",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "MENDEZMARY55",
+		"source_type" : "user",
+		"target" : "enero",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "globalvoices",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "JamesJohnsonCHR",
+		"source_type" : "user",
+		"target" : "auspol",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "JamesJohnsonCHR",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "BahrainRights",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "Bahrani_Lion",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "TeLoCambioPor",
+		"source_type" : "user",
+		"target" : "MusicTLC",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "JawadFairooz",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "cromoex",
+		"source_type" : "user",
+		"target" : "Ready",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "ICD_Egypt",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "JumboRD",
+		"source_type" : "user",
+		"target" : "YipetonJumbo",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "degewa",
+		"source_type" : "user",
+		"target" : "China",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "degewa",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "festereopicnic",
+		"source_type" : "user",
+		"target" : "estereopicnic2014",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "TELEVILEAKS",
+		"source_type" : "user",
+		"target" : "Televisa",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "TELEVILEAKS",
+		"source_type" : "user",
+		"target" : "Teleton",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "WestBank",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "Terror",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "Palestinian",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "Israeli",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "jonhutson",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "jonhutson",
+		"source_type" : "user",
+		"target" : "freespeech",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "bedoonmedia",
+		"source_type" : "user",
+		"target" : "kuwait",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "bedoonmedia",
+		"source_type" : "user",
+		"target" : "ksa",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "bedoonmedia",
+		"source_type" : "user",
+		"target" : "uae",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "bedoonmedia",
+		"source_type" : "user",
+		"target" : "Arab",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "bedoonmedia",
+		"source_type" : "user",
+		"target" : "gulf",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "bedoonmedia",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "bedoonmedia",
+		"source_type" : "user",
+		"target" : "hrw",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "NoMilTrials",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "azhar",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "EAF",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "ASE",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 2
+	},
+	{
+		"source" : "Calle13Oficial",
+		"source_type" : "user",
+		"target" : "Multi_Viral",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UN",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UN",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UN",
+		"source_type" : "user",
+		"target" : "PalSolidarityDay",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "venevision",
+		"source_type" : "user",
+		"target" : "VideochatVV",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "noticierovv",
+		"source_type" : "user",
+		"target" : "VideochatVV",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "tv_mauricio",
+		"source_type" : "user",
+		"target" : "MiSantiago",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonNews",
+		"source_type" : "user",
+		"target" : "1DMX",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonNews",
+		"source_type" : "user",
+		"target" : "BlackFriday",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Ubisoft",
+		"source_type" : "user",
+		"target" : "Hangout",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "hrw",
+		"source_type" : "user",
+		"target" : "Mexico",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "hrw",
+		"source_type" : "user",
+		"target" : "PeñaNieto",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "hrw",
+		"source_type" : "user",
+		"target" : "Thailand",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "hrw",
+		"source_type" : "user",
+		"target" : "VilniusSummit",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "hrw",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "hrw",
+		"source_type" : "user",
+		"target" : "EaP",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "REYKON_",
+		"source_type" : "user",
+		"target" : "Bailen",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "amnesty",
+		"source_type" : "user",
+		"target" : "CAR",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "amnesty",
+		"source_type" : "user",
+		"target" : "children",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "amnesty",
+		"source_type" : "user",
+		"target" : "Mali",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "amnesty",
+		"source_type" : "user",
+		"target" : "Gaza",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "amnesty",
+		"source_type" : "user",
+		"target" : "Israel",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "victordrija",
+		"source_type" : "user",
+		"target" : "Lujo",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "NRJ12lachaine",
+		"source_type" : "user",
+		"target" : "AlloNabilla",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "NRJ12lachaine",
+		"source_type" : "user",
+		"target" : "NRJ12",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "FonsecaMonica",
+		"source_type" : "user",
+		"target" : "fiware800k",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "JodieMarsh",
+		"source_type" : "user",
+		"target" : "deathpenaltydebate",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MohammedAssaf89",
+		"source_type" : "user",
+		"target" : "PalSolidarityDay",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "M_ilhanyakar",
+		"source_type" : "user",
+		"target" : "HürTeşebbüseDARBE",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "multimediostv",
+		"source_type" : "user",
+		"target" : "Destardes",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "multimediostv",
+		"source_type" : "user",
+		"target" : "Acábatelo",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "multimediostv",
+		"source_type" : "user",
+		"target" : "Vivalavi",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "multimediostv",
+		"source_type" : "user",
+		"target" : "LasPosadas",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MargaretAtwood",
+		"source_type" : "user",
+		"target" : "WorldAIDSDay",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MargaretAtwood",
+		"source_type" : "user",
+		"target" : "AfrGr",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "RafaMarquezMX",
+		"source_type" : "user",
+		"target" : "Gala",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "viajaVolaris",
+		"source_type" : "user",
+		"target" : "FILGuadalajara",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "jeymammon",
+		"source_type" : "user",
+		"target" : "Urdapilleta",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "PoetaCalle",
+		"source_type" : "user",
+		"target" : "PAZ",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "PoetaCalle",
+		"source_type" : "user",
+		"target" : "Popopopoeee",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "PoetaCalle",
+		"source_type" : "user",
+		"target" : "MYBABY200milviewsestanoche",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "sergiocarlo",
+		"source_type" : "user",
+		"target" : "Genial",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "sergiocarlo",
+		"source_type" : "user",
+		"target" : "duetosEnLunatiK",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "eluniversocom",
+		"source_type" : "user",
+		"target" : "Maradona",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "witnessorg",
+		"source_type" : "user",
+		"target" : "witnesslive",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "witnessorg",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "witnessorg",
+		"source_type" : "user",
+		"target" : "video4change",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "witnessorg",
+		"source_type" : "user",
+		"target" : "focus4change",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "rcavada",
+		"source_type" : "user",
+		"target" : "OrgulloDominicano",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "rcavada",
+		"source_type" : "user",
+		"target" : "ProyectoArmonía",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "rcavada",
+		"source_type" : "user",
+		"target" : "UnMismoCanto",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "sosyalpencere",
+		"source_type" : "user",
+		"target" : "HürTeşebbüseDARBE",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MiaFarrow",
+		"source_type" : "user",
+		"target" : "Afghan",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Glinner",
+		"source_type" : "user",
+		"target" : "privacyisaright",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "zbleumoon",
+		"source_type" : "user",
+		"target" : "Tibetan",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "zbleumoon",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UNDP",
+		"source_type" : "user",
+		"target" : "rememberSunila",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "1Direction_X",
+		"source_type" : "user",
+		"target" : "1DAO",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "telva",
+		"source_type" : "user",
+		"target" : "blogger",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Channel4News",
+		"source_type" : "user",
+		"target" : "c4news",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "tedcoine",
+		"source_type" : "user",
+		"target" : "humanbiz",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "tedcoine",
+		"source_type" : "user",
+		"target" : "leadership",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "tedcoine",
+		"source_type" : "user",
+		"target" : "women",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "tedcoine",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "vanguardngrnews",
+		"source_type" : "user",
+		"target" : "vanguardngrnews",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "BBCAfrica",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Reporte_Indigo",
+		"source_type" : "user",
+		"target" : "EPN",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "dailynation",
+		"source_type" : "user",
+		"target" : "Hague",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "JulianLopez_",
+		"source_type" : "user",
+		"target" : "ViralLaPelicula",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "shanikberman",
+		"source_type" : "user",
+		"target" : "tbt",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "BBCr4today",
+		"source_type" : "user",
+		"target" : "r4today",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "afpfr",
+		"source_type" : "user",
+		"target" : "AFP",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "abcnews",
+		"source_type" : "user",
+		"target" : "Syria",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "lcvelez",
+		"source_type" : "user",
+		"target" : "theguardian",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "TV_Publica",
+		"source_type" : "user",
+		"target" : "Visión7",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "BarbarosSansal",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "BarbarosSansal",
+		"source_type" : "user",
+		"target" : "Syria",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "KARENBEJARANOTV",
+		"source_type" : "user",
+		"target" : "TrainingTotem",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "KARENBEJARANOTV",
+		"source_type" : "user",
+		"target" : "JuanPedroTV",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "KARENBEJARANOTV",
+		"source_type" : "user",
+		"target" : "MarchaDeLosEnfermos",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "fingerfootball",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "fingerfootball",
+		"source_type" : "user",
+		"target" : "GiftofLife",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "fingerfootball",
+		"source_type" : "user",
+		"target" : "healthyliving",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UNESCO",
+		"source_type" : "user",
+		"target" : "educationfirst",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UNESCO",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "Bangladesh",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "Pillay",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "SriLanka",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "IDPs",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "drone",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "VietNam",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "Argentina",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "UniversalPeriodicReview",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "UPR",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "HRC",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "hamletgarcia17",
+		"source_type" : "user",
+		"target" : "HUMANRIGHTS",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "hamletgarcia17",
+		"source_type" : "user",
+		"target" : "LaReinadelguaguancó",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "hamletgarcia17",
+		"source_type" : "user",
+		"target" : "human",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "hamletgarcia17",
+		"source_type" : "user",
+		"target" : "UnitedNation",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Mefollosonrisas",
+		"source_type" : "user",
+		"target" : "RT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "NABEELRAJAB",
+		"source_type" : "user",
+		"target" : "freedom",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "NABEELRAJAB",
+		"source_type" : "user",
+		"target" : "Demo",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "NABEELRAJAB",
+		"source_type" : "user",
+		"target" : "FreeNabeel",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "NABEELRAJAB",
+		"source_type" : "user",
+		"target" : "bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Librimondadori",
+		"source_type" : "user",
+		"target" : "RossoIstanbul",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AmnestyOnline",
+		"source_type" : "user",
+		"target" : "WriteforRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AmnestyOnline",
+		"source_type" : "user",
+		"target" : "CAR",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AmnestyOnline",
+		"source_type" : "user",
+		"target" : "Gaza",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AmnestyOnline",
+		"source_type" : "user",
+		"target" : "Palestinians",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "977_fm",
+		"source_type" : "user",
+		"target" : "AllTheThings",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "977_fm",
+		"source_type" : "user",
+		"target" : "Noticias",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "977_fm",
+		"source_type" : "user",
+		"target" : "FinDeSemana",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AmnestyOnline",
+		"source_type" : "user",
+		"target" : "Yemen",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AmnestyOnline",
+		"source_type" : "user",
+		"target" : "16Days",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AmnestyOnline",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AmnestyOnline",
+		"source_type" : "user",
+		"target" : "SaudiArabia",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DanielaBlume",
+		"source_type" : "user",
+		"target" : "NoTeCortesFriday",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "YamnaLobos",
+		"source_type" : "user",
+		"target" : "MiSantiago",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "WilliamJHague",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "sanabucha",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "sanabucha",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ClaraEOspinaG",
+		"source_type" : "user",
+		"target" : "PenalCastroCastro",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ClaraEOspinaG",
+		"source_type" : "user",
+		"target" : "Tiempodeleer",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SkyAlertMx",
+		"source_type" : "user",
+		"target" : "Lovejoy",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Mefollomiradas",
+		"source_type" : "user",
+		"target" : "RT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "CervPresidente",
+		"source_type" : "user",
+		"target" : "ClasicoMundialPresidente",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "foreignoffice",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "GhostyMaher",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "GhostyMaher",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "mcaeseoficial",
+		"source_type" : "user",
+		"target" : "Polémicos",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "webnotitarde",
+		"source_type" : "user",
+		"target" : "InterlocutorNotitarde",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "webnotitarde",
+		"source_type" : "user",
+		"target" : "interlocutornotitarde",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "baezfer",
+		"source_type" : "user",
+		"target" : "NSA",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "baezfer",
+		"source_type" : "user",
+		"target" : "Humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MissAnalia",
+		"source_type" : "user",
+		"target" : "DueloDeDivas",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MissAnalia",
+		"source_type" : "user",
+		"target" : "Rebeca",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MissAnalia",
+		"source_type" : "user",
+		"target" : "Analia",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MissAnalia",
+		"source_type" : "user",
+		"target" : "MariaT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MissAnalia",
+		"source_type" : "user",
+		"target" : "PDNT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ADNPolitico",
+		"source_type" : "user",
+		"target" : "Loimperdible",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "tjcope",
+		"source_type" : "user",
+		"target" : "TJNBA",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Nadiaglory",
+		"source_type" : "user",
+		"target" : "egypt",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Nadiaglory",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Nadiaglory",
+		"source_type" : "user",
+		"target" : "MOI",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Nadiaglory",
+		"source_type" : "user",
+		"target" : "ProtestLaw",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "LAMATERIALISTA1",
+		"source_type" : "user",
+		"target" : "HIT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "LAMATERIALISTA1",
+		"source_type" : "user",
+		"target" : "YONOQUIEROBODA",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "sunriseon7",
+		"source_type" : "user",
+		"target" : "Sun7",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DavidSummersHG",
+		"source_type" : "user",
+		"target" : "FelizDomingo",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DavidSummersHG",
+		"source_type" : "user",
+		"target" : "Ba",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "OccupyWallStNYC",
+		"source_type" : "user",
+		"target" : "UK",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "OccupyWallStNYC",
+		"source_type" : "user",
+		"target" : "Israel",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "OccupyWallStNYC",
+		"source_type" : "user",
+		"target" : "StopPrawerPlan",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "OccupyWallStNYC",
+		"source_type" : "user",
+		"target" : "music",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "jeffgrant_ct",
+		"source_type" : "user",
+		"target" : "children",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "jeffgrant_ct",
+		"source_type" : "user",
+		"target" : "Mali",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "jeffgrant_ct",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "RaulGomez82",
+		"source_type" : "user",
+		"target" : "buenamano",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MunaAbuSulayman",
+		"source_type" : "user",
+		"target" : "activist",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MunaAbuSulayman",
+		"source_type" : "user",
+		"target" : "Palestinian",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "HackedOffHugh",
+		"source_type" : "user",
+		"target" : "BackTheCharter",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Bin3issa",
+		"source_type" : "user",
+		"target" : "NationalGeographic",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Bin3issa",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Bin3issa",
+		"source_type" : "user",
+		"target" : "Hunger",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Zeinobia",
+		"source_type" : "user",
+		"target" : "NoMilTrials",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Zeinobia",
+		"source_type" : "user",
+		"target" : "FreeAlaa",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "JuanPedroTV",
+		"source_type" : "user",
+		"target" : "MarchaDeLosEnfermos",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "JuanPedroTV",
+		"source_type" : "user",
+		"target" : "TrainingTotem",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "JuanPedroTV",
+		"source_type" : "user",
+		"target" : "JuanPedroTV",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "JovenEnamorad0",
+		"source_type" : "user",
+		"target" : "RT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Juezcentral",
+		"source_type" : "user",
+		"target" : "ElComandante",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "miguelamunoz",
+		"source_type" : "user",
+		"target" : "ViralLaPelicula",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SEDESOL_mx",
+		"source_type" : "user",
+		"target" : "VIDEO",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SEDESOL_mx",
+		"source_type" : "user",
+		"target" : "CNCH",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "OfficialFacts1D",
+		"source_type" : "user",
+		"target" : "mtvstars",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Mecomotusganas",
+		"source_type" : "user",
+		"target" : "RT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "natybotero",
+		"source_type" : "user",
+		"target" : "Fuego",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "natybotero",
+		"source_type" : "user",
+		"target" : "Mio",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Azania_",
+		"source_type" : "user",
+		"target" : "PowerLunch",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "TariqRamadan",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "julioastillero",
+		"source_type" : "user",
+		"target" : "MadresCoraje",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "40ChileOficial",
+		"source_type" : "user",
+		"target" : "Clásico40",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Telemedellin",
+		"source_type" : "user",
+		"target" : "PuraVidaEnTuÁrea",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "haaretzcom",
+		"source_type" : "user",
+		"target" : "Israel",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "princehandley",
+		"source_type" : "user",
+		"target" : "China",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "princehandley",
+		"source_type" : "user",
+		"target" : "US",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "princehandley",
+		"source_type" : "user",
+		"target" : "human",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "princehandley",
+		"source_type" : "user",
+		"target" : "rights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "princehandley",
+		"source_type" : "user",
+		"target" : "Pastors",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "princehandley",
+		"source_type" : "user",
+		"target" : "priests",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Feb14Media",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Feb14Media",
+		"source_type" : "user",
+		"target" : "البحرين",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Feb14Media",
+		"source_type" : "user",
+		"target" : "bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Feb14Media",
+		"source_type" : "user",
+		"target" : "humanrigh",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "zimbabwekid",
+		"source_type" : "user",
+		"target" : "zkblast",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Ikhwanweb",
+		"source_type" : "user",
+		"target" : "AntiCoup",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Ikhwanweb",
+		"source_type" : "user",
+		"target" : "Alex14",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "itspetergabriel",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "danyturcotte",
+		"source_type" : "user",
+		"target" : "TLMEP",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UMusicMexico",
+		"source_type" : "user",
+		"target" : "CuestiónDeTiempo",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "_PeterGriffinES",
+		"source_type" : "user",
+		"target" : "SchusterVeteYa",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DDNewsLive",
+		"source_type" : "user",
+		"target" : "UN",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DDNewsLive",
+		"source_type" : "user",
+		"target" : "SriLanka",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Yeilove",
+		"source_type" : "user",
+		"target" : "PrendeLasCornetas",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "conycamelo",
+		"source_type" : "user",
+		"target" : "Larevanchadelburro",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DDNewsLive",
+		"source_type" : "user",
+		"target" : "Pakistan",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DDNewsLive",
+		"source_type" : "user",
+		"target" : "US",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DDNewsLive",
+		"source_type" : "user",
+		"target" : "ParkashSinghBadal",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "sherryrehman",
+		"source_type" : "user",
+		"target" : "Torture",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "sherryrehman",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "alakraf_twitt",
+		"source_type" : "user",
+		"target" : "برويز",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "alakraf_twitt",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "alakraf_twitt",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "difamadores",
+		"source_type" : "user",
+		"target" : "CasoADN",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "CarmeBarcelo",
+		"source_type" : "user",
+		"target" : "Canal9",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "bencnn",
+		"source_type" : "user",
+		"target" : "CAR",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "bencnn",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ZPU",
+		"source_type" : "user",
+		"target" : "DoceLunas",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "asliaydintasbas",
+		"source_type" : "user",
+		"target" : "China",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "JodidoChicoDice",
+		"source_type" : "user",
+		"target" : "RT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "RobertAlai",
+		"source_type" : "user",
+		"target" : "Kagame",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "RobertAlai",
+		"source_type" : "user",
+		"target" : "M23",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "GonzaloGarVi",
+		"source_type" : "user",
+		"target" : "LAPATRONA",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Arash",
+		"source_type" : "user",
+		"target" : "dérapage",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Arash",
+		"source_type" : "user",
+		"target" : "FN",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Arash",
+		"source_type" : "user",
+		"target" : "municipales",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "acarvin",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SkiperRamirez",
+		"source_type" : "user",
+		"target" : "Polémicos",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "trafficMcbo",
+		"source_type" : "user",
+		"target" : "8D",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "husainhaqqani",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "husainhaqqani",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ahramonline",
+		"source_type" : "user",
+		"target" : "egypt",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ahramonline",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "usembassymanila",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "usembassymanila",
+		"source_type" : "user",
+		"target" : "16days",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "davidfrum",
+		"source_type" : "user",
+		"target" : "Iran",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MARYAMALKHAWAJA",
+		"source_type" : "user",
+		"target" : "PutThemOnTrial",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MARYAMALKHAWAJA",
+		"source_type" : "user",
+		"target" : "UK",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MARYAMALKHAWAJA",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MARYAMALKHAWAJA",
+		"source_type" : "user",
+		"target" : "parweez",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MARYAMALKHAWAJA",
+		"source_type" : "user",
+		"target" : "F1",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Alhamdhulillaah",
+		"source_type" : "user",
+		"target" : "Islam",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "PlayStationFR",
+		"source_type" : "user",
+		"target" : "TheOrder",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "PlayStationFR",
+		"source_type" : "user",
+		"target" : "PS4",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ewnreporter",
+		"source_type" : "user",
+		"target" : "Krejcir",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Indiegogo",
+		"source_type" : "user",
+		"target" : "SmallBusinessSaturday",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "amilcarmontejo",
+		"source_type" : "user",
+		"target" : "TeVi",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "futbolecuador",
+		"source_type" : "user",
+		"target" : "FEMagazine",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "PutThemOnTrial",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "Freenabeel",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "WOLFINE98",
+		"source_type" : "user",
+		"target" : "FlowChileno",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "humanrigh",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "antiw",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "arabspring",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "usa",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "uk",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "eu",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "f1",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "gcc",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "parweez",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "FreeNabeel",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "freenabeelrajab",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "onedirectionARG",
+		"source_type" : "user",
+		"target" : "1DAO",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "The_News_DIVA",
+		"source_type" : "user",
+		"target" : "news",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "laligaennumeros",
+		"source_type" : "user",
+		"target" : "Spheméride",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AmnestyUK",
+		"source_type" : "user",
+		"target" : "China",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AmnestyUK",
+		"source_type" : "user",
+		"target" : "weRwakefield",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UKfullyfocused",
+		"source_type" : "user",
+		"target" : "BIHR",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UKfullyfocused",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "allafrica",
+		"source_type" : "user",
+		"target" : "africa",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "joelsampayoc",
+		"source_type" : "user",
+		"target" : "Monterrey",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MBrotherhoodUK",
+		"source_type" : "user",
+		"target" : "MB",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MBrotherhoodUK",
+		"source_type" : "user",
+		"target" : "Morsi",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MBrotherhoodUK",
+		"source_type" : "user",
+		"target" : "AntiCoup",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "vincentglad",
+		"source_type" : "user",
+		"target" : "lamaoutai",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "PRI_Nacional",
+		"source_type" : "user",
+		"target" : "VideoPRI",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Ronald_MacKay",
+		"source_type" : "user",
+		"target" : "GuateVlogs",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DavidSuzukiFDN",
+		"source_type" : "user",
+		"target" : "climatechange",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AccionNacional",
+		"source_type" : "user",
+		"target" : "ReformaPolítica",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "sonarfm",
+		"source_type" : "user",
+		"target" : "SonarClasico",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "StirringTrouble",
+		"source_type" : "user",
+		"target" : "DavidCameron",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "StirringTrouble",
+		"source_type" : "user",
+		"target" : "China",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "barcelona_cat",
+		"source_type" : "user",
+		"target" : "PBCN14",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Fiomigliore",
+		"source_type" : "user",
+		"target" : "BeOkayPy",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "TV5MONDE",
+		"source_type" : "user",
+		"target" : "Palestine",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "TV5MONDE",
+		"source_type" : "user",
+		"target" : "RêveImaginai",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Ciencia_UNAM",
+		"source_type" : "user",
+		"target" : "UnDato",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "USRealityCheck",
+		"source_type" : "user",
+		"target" : "US",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "USRealityCheck",
+		"source_type" : "user",
+		"target" : "Israel",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ABCNews24",
+		"source_type" : "user",
+		"target" : "WeekendBreakfast",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ABCNews24",
+		"source_type" : "user",
+		"target" : "Greenpeace",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ABCNews24",
+		"source_type" : "user",
+		"target" : "Syria",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "politicosmex",
+		"source_type" : "user",
+		"target" : "PRI",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "_GoofyGarcia",
+		"source_type" : "user",
+		"target" : "Polémicos",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "tamaraprimus",
+		"source_type" : "user",
+		"target" : "porquemiento",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "FreddyMezaTv",
+		"source_type" : "user",
+		"target" : "Destardes",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "FreddyMezaTv",
+		"source_type" : "user",
+		"target" : "Acábatelo",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "truthout",
+		"source_type" : "user",
+		"target" : "ElSalvador",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "truthout",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "NaderAbdulEmam",
+		"source_type" : "user",
+		"target" : "bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "NaderAbdulEmam",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "NaderAbdulEmam",
+		"source_type" : "user",
+		"target" : "FreeNabeelRajab",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Hechos_1DBTR",
+		"source_type" : "user",
+		"target" : "Hechos1DBTR",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "onderaytac",
+		"source_type" : "user",
+		"target" : "HürTeşebbüseDARBE",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAbdelhamid",
+		"source_type" : "user",
+		"target" : "TheOrder",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SAbdelhamid",
+		"source_type" : "user",
+		"target" : "PS4",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MandyWiener",
+		"source_type" : "user",
+		"target" : "Krejcir",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "KrishnaAthal",
+		"source_type" : "user",
+		"target" : "rememberSunila",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "tobeymonster",
+		"source_type" : "user",
+		"target" : "WorldAIDSDay",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UN_News_Centre",
+		"source_type" : "user",
+		"target" : "Philippines",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UN_News_Centre",
+		"source_type" : "user",
+		"target" : "privacy",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UN_News_Centre",
+		"source_type" : "user",
+		"target" : "HIV",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UN_News_Centre",
+		"source_type" : "user",
+		"target" : "Syria",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UN_News_Centre",
+		"source_type" : "user",
+		"target" : "Argentina",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UN_News_Centre",
+		"source_type" : "user",
+		"target" : "VietNam",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UN_News_Centre",
+		"source_type" : "user",
+		"target" : "SouthSudan",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MFQahtani",
+		"source_type" : "user",
+		"target" : "alhamid4nobel",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MFQahtani",
+		"source_type" : "user",
+		"target" : "Saudi",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Sarahcarr",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Sarahcarr",
+		"source_type" : "user",
+		"target" : "award",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MASQHUMOR",
+		"source_type" : "user",
+		"target" : "RTVVnoestanca",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MASQHUMOR",
+		"source_type" : "user",
+		"target" : "España",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "boammar",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "boammar",
+		"source_type" : "user",
+		"target" : "BCHR",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "boammar",
+		"source_type" : "user",
+		"target" : "HRD",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "vamosmiverdecom",
+		"source_type" : "user",
+		"target" : "VamosMiVerde",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "somoslogan",
+		"source_type" : "user",
+		"target" : "HoyTocaCelebrar",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "PdePromesas",
+		"source_type" : "user",
+		"target" : "RT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "WaleedAbulkhair",
+		"source_type" : "user",
+		"target" : "SaudiArabia",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "WaleedAbulkhair",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "TrebolClan1",
+		"source_type" : "user",
+		"target" : "NadieVaAParame",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "TrebolClan1",
+		"source_type" : "user",
+		"target" : "Gaona",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "geysar",
+		"source_type" : "user",
+		"target" : "humanRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "GABYLONIA",
+		"source_type" : "user",
+		"target" : "IloveRap",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MadhaBhima",
+		"source_type" : "user",
+		"target" : "YoSiMarchoEl1Dmx",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "freddynberas",
+		"source_type" : "user",
+		"target" : "ElLlorón",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "mintel2011",
+		"source_type" : "user",
+		"target" : "Shanghai",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "mintel2011",
+		"source_type" : "user",
+		"target" : "Beijing",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "mintel2011",
+		"source_type" : "user",
+		"target" : "Humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "RusherProud",
+		"source_type" : "user",
+		"target" : "HBTR",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MohdMaskati",
+		"source_type" : "user",
+		"target" : "16days",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "unionradionet",
+		"source_type" : "user",
+		"target" : "EnlaWeb",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MohdMaskati",
+		"source_type" : "user",
+		"target" : "BYSHR",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MohdMaskati",
+		"source_type" : "user",
+		"target" : "US",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MohdMaskati",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "elkaiser63",
+		"source_type" : "user",
+		"target" : "BuenViernesGedentiandoConLosGedes",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "sdmattpotter",
+		"source_type" : "user",
+		"target" : "mexico",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "sdmattpotter",
+		"source_type" : "user",
+		"target" : "drugwar",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "UniversalMX",
+		"source_type" : "user",
+		"target" : "CuestiónDeTiempo",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Nena_Guzman",
+		"source_type" : "user",
+		"target" : "60SEGUNDOS",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Nena_Guzman",
+		"source_type" : "user",
+		"target" : "60Segundos",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "CGLermas",
+		"source_type" : "user",
+		"target" : "RT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "globalvoices",
+		"source_type" : "user",
+		"target" : "Balochistan",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "JDavidMorris",
+		"source_type" : "user",
+		"target" : "SmallBusinessSaturday",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MariaConchita_A",
+		"source_type" : "user",
+		"target" : "30N",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "minamaya13",
+		"source_type" : "user",
+		"target" : "SLIDESHOW",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "minamaya13",
+		"source_type" : "user",
+		"target" : "Sochi",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "minamaya13",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "EMIMexico",
+		"source_type" : "user",
+		"target" : "CuestiónDeTiempo",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "minamaya13",
+		"source_type" : "user",
+		"target" : "Syria",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "minamaya13",
+		"source_type" : "user",
+		"target" : "UN",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "minamaya13",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Charlie_Hebdo_",
+		"source_type" : "user",
+		"target" : "dérapage",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Charlie_Hebdo_",
+		"source_type" : "user",
+		"target" : "FN",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Charlie_Hebdo_",
+		"source_type" : "user",
+		"target" : "municipales",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "FILGuadalajara",
+		"source_type" : "user",
+		"target" : "FILniños",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "tarekshalaby",
+		"source_type" : "user",
+		"target" : "A7A",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "analuciatv",
+		"source_type" : "user",
+		"target" : "MadresNex",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "elwarpig",
+		"source_type" : "user",
+		"target" : "1DMX",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DMForoUnivision",
+		"source_type" : "user",
+		"target" : "VIDEO",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "14FebRevolution",
+		"source_type" : "user",
+		"target" : "bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "14FebRevolution",
+		"source_type" : "user",
+		"target" : "F1",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "14FebRevolution",
+		"source_type" : "user",
+		"target" : "hrw",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "BNotBad",
+		"source_type" : "user",
+		"target" : "OneTrophy",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "BNotBad",
+		"source_type" : "user",
+		"target" : "TwoTeams",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "alexmedela",
+		"source_type" : "user",
+		"target" : "SS6Panama",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "chikosdelmaiz",
+		"source_type" : "user",
+		"target" : "RTVVnoestanca",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Arief96Muhammad",
+		"source_type" : "user",
+		"target" : "Islam",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "LunarioMx",
+		"source_type" : "user",
+		"target" : "Nocturnario",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "lifelonghealth",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "lifelonghealth",
+		"source_type" : "user",
+		"target" : "love",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "lifelonghealth",
+		"source_type" : "user",
+		"target" : "peace",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "lifelonghealth",
+		"source_type" : "user",
+		"target" : "photo",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "LeckYougo",
+		"source_type" : "user",
+		"target" : "LeckTour",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "juventudsin",
+		"source_type" : "user",
+		"target" : "Canal9",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "beenasarwar",
+		"source_type" : "user",
+		"target" : "Pakistan",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "beenasarwar",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Fatma_alhayyan",
+		"source_type" : "user",
+		"target" : "NationalGeographic",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Fatma_alhayyan",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Fatma_alhayyan",
+		"source_type" : "user",
+		"target" : "Hunger",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "IsraelNewsNow",
+		"source_type" : "user",
+		"target" : "IsraeltheRegion",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "IsraelNewsNow",
+		"source_type" : "user",
+		"target" : "UNHumanRightsCouncil",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "IsraelNewsNow",
+		"source_type" : "user",
+		"target" : "UnitedNations",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "officialfraag",
+		"source_type" : "user",
+		"target" : "NoVoyAParar",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Matar_Matar",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Matar_Matar",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Reem_Khalifa",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Reem_Khalifa",
+		"source_type" : "user",
+		"target" : "news",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Reem_Khalifa",
+		"source_type" : "user",
+		"target" : "world",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Matar_Matar",
+		"source_type" : "user",
+		"target" : "FreeNabeel",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Matar_Matar",
+		"source_type" : "user",
+		"target" : "bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Reem_Khalifa",
+		"source_type" : "user",
+		"target" : "Nabeel",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MarySarahMusic",
+		"source_type" : "user",
+		"target" : "VAW",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MarySarahMusic",
+		"source_type" : "user",
+		"target" : "FollowFriday",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MarySarahMusic",
+		"source_type" : "user",
+		"target" : "DT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "BahrainRights",
+		"source_type" : "user",
+		"target" : "bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "marcadorec",
+		"source_type" : "user",
+		"target" : "Maradona",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "PutasIlusiones",
+		"source_type" : "user",
+		"target" : "RT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AmberLyon",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AmberLyon",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "joefrancis",
+		"source_type" : "user",
+		"target" : "jewish",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "muz4now",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "cculturalamanda",
+		"source_type" : "user",
+		"target" : "StreetDance",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "FedericoGomezOk",
+		"source_type" : "user",
+		"target" : "FedeGomezTeEntroComo",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Britanniacomms",
+		"source_type" : "user",
+		"target" : "ViolenceAgainstWomen",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Britanniacomms",
+		"source_type" : "user",
+		"target" : "education",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "OttawaCitizen",
+		"source_type" : "user",
+		"target" : "ottnews",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "canalfiesta",
+		"source_type" : "user",
+		"target" : "ElectroFiesta",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ViernesCrew",
+		"source_type" : "user",
+		"target" : "SacateElYorUacha",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MediCasos",
+		"source_type" : "user",
+		"target" : "NiUnPasanteMasHerido",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "RafaBlas_",
+		"source_type" : "user",
+		"target" : "Directos_RafaBlas",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "escuchamiRADIO",
+		"source_type" : "user",
+		"target" : "You",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "VirginRadiofr",
+		"source_type" : "user",
+		"target" : "VirginRadioLive",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ElTeamBelieber",
+		"source_type" : "user",
+		"target" : "FilmFriday",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "LA_PAH",
+		"source_type" : "user",
+		"target" : "PAHmilia",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "GAMERSRetail",
+		"source_type" : "user",
+		"target" : "GamersDLC",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "theprovince",
+		"source_type" : "user",
+		"target" : "Vancouver",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ChathamHouse",
+		"source_type" : "user",
+		"target" : "China",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ChathamHouse",
+		"source_type" : "user",
+		"target" : "UN",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "dsmolansky",
+		"source_type" : "user",
+		"target" : "VIDEO",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Beltrew",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "RamiroLeonel7",
+		"source_type" : "user",
+		"target" : "HipHopArgentino",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "RamiroLeonel7",
+		"source_type" : "user",
+		"target" : "LCR",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SheQuotes",
+		"source_type" : "user",
+		"target" : "TEDGlobal",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SheQuotes",
+		"source_type" : "user",
+		"target" : "Quote",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SheQuotes",
+		"source_type" : "user",
+		"target" : "SQN",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "iran_policy",
+		"source_type" : "user",
+		"target" : "Iraq",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "paolobelliswing",
+		"source_type" : "user",
+		"target" : "thecure",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Britanniacomms",
+		"source_type" : "user",
+		"target" : "BackTheCharter",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "hermanntertsch",
+		"source_type" : "user",
+		"target" : "Ukraine",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "hermanntertsch",
+		"source_type" : "user",
+		"target" : "EU",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "hermanntertsch",
+		"source_type" : "user",
+		"target" : "euromaidan",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "hermanntertsch",
+		"source_type" : "user",
+		"target" : "євромайдан",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SpheraSports",
+		"source_type" : "user",
+		"target" : "Spheméride",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Spi0n",
+		"source_type" : "user",
+		"target" : "BreakingBad",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "rob_bieber",
+		"source_type" : "user",
+		"target" : "cdnpoli",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "rob_bieber",
+		"source_type" : "user",
+		"target" : "Canada",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "rob_bieber",
+		"source_type" : "user",
+		"target" : "IdleNoMore",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "rob_bieber",
+		"source_type" : "user",
+		"target" : "hu",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "TheCurrentCBC",
+		"source_type" : "user",
+		"target" : "climatechange",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "TheCurrentCBC",
+		"source_type" : "user",
+		"target" : "Climatechange",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "samuellaurent",
+		"source_type" : "user",
+		"target" : "dérapage",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "samuellaurent",
+		"source_type" : "user",
+		"target" : "FN",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "samuellaurent",
+		"source_type" : "user",
+		"target" : "municipales",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Bahrani_Lion",
+		"source_type" : "user",
+		"target" : "EBOHR",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Bahrani_Lion",
+		"source_type" : "user",
+		"target" : "bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Bahrani_Lion",
+		"source_type" : "user",
+		"target" : "humanrigh",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Bahrani_Lion",
+		"source_type" : "user",
+		"target" : "parweez",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "VW_es",
+		"source_type" : "user",
+		"target" : "PlayTheRoad",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "VW_es",
+		"source_type" : "user",
+		"target" : "VWGolf",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "VW_es",
+		"source_type" : "user",
+		"target" : "app",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "YoungKiller94",
+		"source_type" : "user",
+		"target" : "RT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "YoungKiller94",
+		"source_type" : "user",
+		"target" : "DANCE",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "LaCiudadVerde",
+		"source_type" : "user",
+		"target" : "POT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ngmagaldi",
+		"source_type" : "user",
+		"target" : "Maeeestro",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DPSColombia",
+		"source_type" : "user",
+		"target" : "PaísPosible",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "elterribledios",
+		"source_type" : "user",
+		"target" : "Trainin",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MyriamMonteCruz",
+		"source_type" : "user",
+		"target" : "FelicidadesReyna",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "JawadFairooz",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "JawadFairooz",
+		"source_type" : "user",
+		"target" : "ZainabAlKhawaja",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "JawadFairooz",
+		"source_type" : "user",
+		"target" : "NabeelRajab",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "abbasbusafwan",
+		"source_type" : "user",
+		"target" : "EBOHR",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "abbasbusafwan",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "abbasbusafwan",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ClouthierManuel",
+		"source_type" : "user",
+		"target" : "Loimperdible",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "cromoex",
+		"source_type" : "user",
+		"target" : "Bendiciones",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "1DMX",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "parweez",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "RescueRohingya",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "Palestinian",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "sexualharassment",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "Israeli",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "Abuse",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "musiktippde",
+		"source_type" : "user",
+		"target" : "NP",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "Syria",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "Privacy",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "Surveillance",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ICD_Egypt",
+		"source_type" : "user",
+		"target" : "Fr",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ICD_Egypt",
+		"source_type" : "user",
+		"target" : "politics",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ICD_Egypt",
+		"source_type" : "user",
+		"target" : "always",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ICD_Egypt",
+		"source_type" : "user",
+		"target" : "raw",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ICD_Egypt",
+		"source_type" : "user",
+		"target" : "complex",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ICD_Egypt",
+		"source_type" : "user",
+		"target" : "silenced",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "qtejada",
+		"source_type" : "user",
+		"target" : "NP",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ICD_Egypt",
+		"source_type" : "user",
+		"target" : "E",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ICD_Egypt",
+		"source_type" : "user",
+		"target" : "AntiCou",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ICD_Egypt",
+		"source_type" : "user",
+		"target" : "Rohingya",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "LBCI_News_EN",
+		"source_type" : "user",
+		"target" : "UN",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "LBCI_News_EN",
+		"source_type" : "user",
+		"target" : "Syrian",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "HaitiNewsNet",
+		"source_type" : "user",
+		"target" : "Dominican",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "eu_eeas",
+		"source_type" : "user",
+		"target" : "EU",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "eu_eeas",
+		"source_type" : "user",
+		"target" : "Russia",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "eu_eeas",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "oierfano",
+		"source_type" : "user",
+		"target" : "igotasoulbutimnotasoldier",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "spygun",
+		"source_type" : "user",
+		"target" : "forgottenTibet",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ciudadaniactiva",
+		"source_type" : "user",
+		"target" : "8D",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DaniBabb",
+		"source_type" : "user",
+		"target" : "AMU",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DaniBabb",
+		"source_type" : "user",
+		"target" : "APUS",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DaniBabb",
+		"source_type" : "user",
+		"target" : "AMUInstru",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "tonialba",
+		"source_type" : "user",
+		"target" : "ICEC",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "KenRoth",
+		"source_type" : "user",
+		"target" : "Saudi",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "degewa",
+		"source_type" : "user",
+		"target" : "freeTIBET",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "mariarenepy",
+		"source_type" : "user",
+		"target" : "TeVi",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "degewa",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "degewa",
+		"source_type" : "user",
+		"target" : "china",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "renegarcia900",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Naharnet",
+		"source_type" : "user",
+		"target" : "Breaking",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "cumartesiannesi",
+		"source_type" : "user",
+		"target" : "Turkey",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "cumartesiannesi",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "cumartesiannesi",
+		"source_type" : "user",
+		"target" : "democracy",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "cumartesiannesi",
+		"source_type" : "user",
+		"target" : "freedoms",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "GayeCrispin",
+		"source_type" : "user",
+		"target" : "ProtectWHRDs",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "coe",
+		"source_type" : "user",
+		"target" : "Croatia",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "coe",
+		"source_type" : "user",
+		"target" : "CoE",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "coe",
+		"source_type" : "user",
+		"target" : "LGBT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "hombredeltiempo",
+		"source_type" : "user",
+		"target" : "EEI",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "hombredeltiempo",
+		"source_type" : "user",
+		"target" : "Venus",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "coe",
+		"source_type" : "user",
+		"target" : "ECtHR",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "coe",
+		"source_type" : "user",
+		"target" : "Germany",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "capitanintriga",
+		"source_type" : "user",
+		"target" : "SeparadasAlNacer",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "EL_MATADOR13",
+		"source_type" : "user",
+		"target" : "SilNeMeRestait",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "sufisal",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "sufisal",
+		"source_type" : "user",
+		"target" : "video4change",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "sufisal",
+		"source_type" : "user",
+		"target" : "focus4change",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "el_autenticoo",
+		"source_type" : "user",
+		"target" : "BURRITOSABANERO",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DjHarsh_One",
+		"source_type" : "user",
+		"target" : "tntrb",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "BBC_WHYS",
+		"source_type" : "user",
+		"target" : "Thailand",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "BBC_WHYS",
+		"source_type" : "user",
+		"target" : "CAR",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SayNO_UNiTE",
+		"source_type" : "user",
+		"target" : "16days",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SayNO_UNiTE",
+		"source_type" : "user",
+		"target" : "WHRDs",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SayNO_UNiTE",
+		"source_type" : "user",
+		"target" : "orangeurworld",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ALALibrary",
+		"source_type" : "user",
+		"target" : "educationfirst",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ALALibrary",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "TELEVILEAKS",
+		"source_type" : "user",
+		"target" : "DIFUNDE",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "PeterTatchell",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "PeterTatchell",
+		"source_type" : "user",
+		"target" : "GLBT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "PeterTatchell",
+		"source_type" : "user",
+		"target" : "LGBT",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "PeterTatchell",
+		"source_type" : "user",
+		"target" : "gay",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "roblesmaloof",
+		"source_type" : "user",
+		"target" : "1DMX",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "isaac",
+		"source_type" : "user",
+		"target" : "Tibet",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "isaac",
+		"source_type" : "user",
+		"target" : "China",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "isaac",
+		"source_type" : "user",
+		"target" : "freeTIBET",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "isaac",
+		"source_type" : "user",
+		"target" : "humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "roblesmaloof",
+		"source_type" : "user",
+		"target" : "Humanrights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "roblesmaloof",
+		"source_type" : "user",
+		"target" : "Honduras",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "CerroPorteno",
+		"source_type" : "user",
+		"target" : "Cerro",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "ApartheidIsrael",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "Gaza",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "GazaUnderAttack",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "Jerusalem",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "Negev",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "Tulkarem",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "occupation",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "settlements",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "al_Naqab",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "UN",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "_JoseValenzuela",
+		"source_type" : "user",
+		"target" : "TrainingTotem",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AsiaSociety",
+		"source_type" : "user",
+		"target" : "Asia21",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AsiaSociety",
+		"source_type" : "user",
+		"target" : "SriLanka",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "margaritalai",
+		"source_type" : "user",
+		"target" : "VamosAlPortal",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "USUN",
+		"source_type" : "user",
+		"target" : "AIDS",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "USUN",
+		"source_type" : "user",
+		"target" : "WorldAIDSDay",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DeenBurbigo",
+		"source_type" : "user",
+		"target" : "LeChaletGANG",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DeenBurbigo",
+		"source_type" : "user",
+		"target" : "LesBucherons",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "mauneobux",
+		"source_type" : "user",
+		"target" : "Cometa",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "mauneobux",
+		"source_type" : "user",
+		"target" : "Ison",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "mauneobux",
+		"source_type" : "user",
+		"target" : "cometIson",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "mingo_1",
+		"source_type" : "user",
+		"target" : "2D",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "mingo_1",
+		"source_type" : "user",
+		"target" : "Vota8D",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "twpyazulgrana",
+		"source_type" : "user",
+		"target" : "Cerro",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "politicshome",
+		"source_type" : "user",
+		"target" : "bbc",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "politicshome",
+		"source_type" : "user",
+		"target" : "murnaghan",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "MichelleBlanc",
+		"source_type" : "user",
+		"target" : "TLMEP",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AliAbunimah",
+		"source_type" : "user",
+		"target" : "BDS",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AliAbunimah",
+		"source_type" : "user",
+		"target" : "St",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "SnagFilms",
+		"source_type" : "user",
+		"target" : "WorldAIDSDay",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "jonhutson",
+		"source_type" : "user",
+		"target" : "Sudan",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "jonhutson",
+		"source_type" : "user",
+		"target" : "Bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "jonhutson",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "AndyRaconte",
+		"source_type" : "user",
+		"target" : "team80",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Tanni_GT",
+		"source_type" : "user",
+		"target" : "BIHR",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Tanni_GT",
+		"source_type" : "user",
+		"target" : "HumanRights",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Tanni_GT",
+		"source_type" : "user",
+		"target" : "HRDay13",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "KamalFaridi",
+		"source_type" : "user",
+		"target" : "Pakistan",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "guerreromario",
+		"source_type" : "user",
+		"target" : "porquemiento",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DaliaEzzat_",
+		"source_type" : "user",
+		"target" : "Egypt",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Amir_beladi",
+		"source_type" : "user",
+		"target" : "bahrain",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "Amir_beladi",
+		"source_type" : "user",
+		"target" : "humanrigh",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "keet0007",
+		"source_type" : "user",
+		"target" : "Colombiano",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "CynthiaHellen",
+		"source_type" : "user",
+		"target" : "women",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DJ5ALEX",
+		"source_type" : "user",
+		"target" : "Sanear",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DJ5ALEX",
+		"source_type" : "user",
+		"target" : "Antolin",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DJ5ALEX",
+		"source_type" : "user",
+		"target" : "Reciclar",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "EU",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "FreeAlaa",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "sinai",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "SCAF",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "jun30",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "ProtestLaw",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "tublani2010",
+		"source_type" : "user",
+		"target" : "Women",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "tublani2010",
+		"source_type" : "user",
+		"target" : "WHRDs",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "tublani2010",
+		"source_type" : "user",
+		"target" : "GodSpeed",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "tublani2010",
+		"source_type" : "user",
+		"target" : "ShoutOut",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "BiancaJagger",
+		"source_type" : "user",
+		"target" : "CampAshraf",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "BiancaJagger",
+		"source_type" : "user",
+		"target" : "FreeThe7",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "BiancaJagger",
+		"source_type" : "user",
+		"target" : "Iraq",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DrEvanHarris",
+		"source_type" : "user",
+		"target" : "BackTheCharter",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "DrEvanHarris",
+		"source_type" : "user",
+		"target" : "Leveson",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "LeBaronDF",
+		"source_type" : "user",
+		"target" : "RedCodependiente",
+		"target_type" : "hashtag",
+		"count" : 1
+	},
+	{
+		"source" : "ASE",
+		"source_type" : "user",
+		"target" : "NabeelRajab",
+		"target_type" : "hashtag",
+		"count" : 1
+	}
+]

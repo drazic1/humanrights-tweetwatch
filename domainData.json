@@ -1,0 +1,886 @@
+[
+	{
+		"_id" : "www.youtube.com",
+		"total" : 844
+	},
+	{
+		"_id" : "www.amnesty.org",
+		"total" : 47
+	},
+	{
+		"_id" : "twitter.com",
+		"total" : 46
+	},
+	{
+		"_id" : "www.ohchr.org",
+		"total" : 41
+	},
+	{
+		"_id" : "english.ahram.org.eg",
+		"total" : 22
+	},
+	{
+		"_id" : "www.hrw.org",
+		"total" : 12
+	},
+	{
+		"_id" : "www.hrcchina.org",
+		"total" : 11
+	},
+	{
+		"_id" : "www.un.org",
+		"total" : 11
+	},
+	{
+		"_id" : "www.telegraph.co.uk",
+		"total" : 11
+	},
+	{
+		"_id" : "freedomfightersofamerica.blogspot.com",
+		"total" : 11
+	},
+	{
+		"_id" : "www.bbc.co.uk",
+		"total" : 10
+	},
+	{
+		"_id" : "p.ost.im",
+		"total" : 9
+	},
+	{
+		"_id" : "www.theguardian.com",
+		"total" : 9
+	},
+	{
+		"_id" : "news.yahoo.com",
+		"total" : 9
+	},
+	{
+		"_id" : "www.humanrightsfirst.org",
+		"total" : 8
+	},
+	{
+		"_id" : "www.qassam.ps",
+		"total" : 8
+	},
+	{
+		"_id" : "www.policymic.com",
+		"total" : 8
+	},
+	{
+		"_id" : "www.informationng.com",
+		"total" : 7
+	},
+	{
+		"_id" : "www.adnpolitico.com",
+		"total" : 7
+	},
+	{
+		"_id" : "www.washingtonpost.com",
+		"total" : 7
+	},
+	{
+		"_id" : "www.haaretz.com",
+		"total" : 6
+	},
+	{
+		"_id" : "www.ncr-iran.org",
+		"total" : 6
+	},
+	{
+		"_id" : "www.change.org",
+		"total" : 6
+	},
+	{
+		"_id" : "www.amnestyusa.org",
+		"total" : 5
+	},
+	{
+		"_id" : "linkis.com",
+		"total" : 5
+	},
+	{
+		"_id" : "paper.li",
+		"total" : 5
+	},
+	{
+		"_id" : "www.gmanetwork.com",
+		"total" : 5
+	},
+	{
+		"_id" : "www.laht.com",
+		"total" : 5
+	},
+	{
+		"_id" : "www.mirror.co.uk",
+		"total" : 4
+	},
+	{
+		"_id" : "bahrainrights.hopto.org",
+		"total" : 4
+	},
+	{
+		"_id" : "www.facebook.com",
+		"total" : 4
+	},
+	{
+		"_id" : "ec-media.soundcloud.com",
+		"total" : 4
+	},
+	{
+		"_id" : "www.sabc.co.za",
+		"total" : 4
+	},
+	{
+		"_id" : "www.scoop.co.nz",
+		"total" : 3
+	},
+	{
+		"_id" : "www.humanrightseurope.org",
+		"total" : 3
+	},
+	{
+		"_id" : "adf.ly",
+		"total" : 3
+	},
+	{
+		"_id" : "www.eluniverso.com",
+		"total" : 3
+	},
+	{
+		"_id" : "www.miamiherald.com",
+		"total" : 3
+	},
+	{
+		"_id" : "bahrainrights.org",
+		"total" : 3
+	},
+	{
+		"_id" : "livewire.amnesty.org",
+		"total" : 3
+	},
+	{
+		"_id" : "www.sbs.com.au",
+		"total" : 3
+	},
+	{
+		"_id" : "www.fidh.org",
+		"total" : 3
+	},
+	{
+		"_id" : "www.cbc.ca",
+		"total" : 3
+	},
+	{
+		"_id" : "www.promotemycrowdfunding.com",
+		"total" : 3
+	},
+	{
+		"_id" : "www.thefridaytimes.com",
+		"total" : 3
+	},
+	{
+		"_id" : "www.rappler.com",
+		"total" : 3
+	},
+	{
+		"_id" : "www.upi.com",
+		"total" : 3
+	},
+	{
+		"_id" : "www.m-x.com.mx",
+		"total" : 3
+	},
+	{
+		"_id" : "webtv.un.org",
+		"total" : 3
+	},
+	{
+		"_id" : "www.humanrightsconcerts.com",
+		"total" : 3
+	},
+	{
+		"_id" : "www.lanacion.com.ar",
+		"total" : 2
+	},
+	{
+		"_id" : "www.atlanticcouncil.org",
+		"total" : 2
+	},
+	{
+		"_id" : "timesofindia.indiatimes.com",
+		"total" : 2
+	},
+	{
+		"_id" : "tariqramadan.com",
+		"total" : 2
+	},
+	{
+		"_id" : "www.enca.com",
+		"total" : 2
+	},
+	{
+		"_id" : "www.heraldstandard.com",
+		"total" : 2
+	},
+	{
+		"_id" : "news.sky.com",
+		"total" : 2
+	},
+	{
+		"_id" : "www.pinknews.co.uk",
+		"total" : 2
+	},
+	{
+		"_id" : "www.indiegogo.com",
+		"total" : 2
+	},
+	{
+		"_id" : "www.jpost.com",
+		"total" : 2
+	},
+	{
+		"_id" : "www.parentdish.ca",
+		"total" : 2
+	},
+	{
+		"_id" : "www.theglobeandmail.com",
+		"total" : 2
+	},
+	{
+		"_id" : "www.themalaysianinsider.com",
+		"total" : 2
+	},
+	{
+		"_id" : "internacional.elpais.com",
+		"total" : 2
+	},
+	{
+		"_id" : "www.firstpost.com",
+		"total" : 2
+	},
+	{
+		"_id" : "www.dossiertibet.it",
+		"total" : 2
+	},
+	{
+		"_id" : "www.aljazeera.com",
+		"total" : 2
+	},
+	{
+		"_id" : "globalvoicesonline.org",
+		"total" : 2
+	},
+	{
+		"_id" : "www.nationmultimedia.com",
+		"total" : 2
+	},
+	{
+		"_id" : "freedomwatch.ipa.org.au",
+		"total" : 2
+	},
+	{
+		"_id" : "focusforchange.org",
+		"total" : 2
+	},
+	{
+		"_id" : "www.independent.co.uk",
+		"total" : 2
+	},
+	{
+		"_id" : "instagram.com",
+		"total" : 2
+	},
+	{
+		"_id" : "972mag.com",
+		"total" : 2
+	},
+	{
+		"_id" : "hackinginquiry.org",
+		"total" : 2
+	},
+	{
+		"_id" : "www.kcna.co.jp",
+		"total" : 2
+	},
+	{
+		"_id" : "feeds.abcnews.com",
+		"total" : 2
+	},
+	{
+		"_id" : "www.huffingtonpost.co.uk",
+		"total" : 2
+	},
+	{
+		"_id" : "www.nation.co.ke",
+		"total" : 2
+	},
+	{
+		"_id" : "uil.unesco.org",
+		"total" : 2
+	},
+	{
+		"_id" : "www.punchng.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.thenation.com",
+		"total" : 1
+	},
+	{
+		"_id" : "vimeo.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.itv.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.abc.net.au",
+		"total" : 1
+	},
+	{
+		"_id" : "www.fubiz.net",
+		"total" : 1
+	},
+	{
+		"_id" : "www.phillymag.com",
+		"total" : 1
+	},
+	{
+		"_id" : "mediagazer.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.ebay.it",
+		"total" : 1
+	},
+	{
+		"_id" : "www.frontlinedefenders.org",
+		"total" : 1
+	},
+	{
+		"_id" : "africangrandmotherstribunal.org",
+		"total" : 1
+	},
+	{
+		"_id" : "www.foxnews.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.mindmeister.com",
+		"total" : 1
+	},
+	{
+		"_id" : "noticias.terra.com.mx",
+		"total" : 1
+	},
+	{
+		"_id" : "www.hurriyetdailynews.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.globalfundforwomen.org",
+		"total" : 1
+	},
+	{
+		"_id" : "www.denverpost.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.mediargh.com",
+		"total" : 1
+	},
+	{
+		"_id" : "usun.state.gov",
+		"total" : 1
+	},
+	{
+		"_id" : "www.sunstar.com.ph",
+		"total" : 1
+	},
+	{
+		"_id" : "byshr.org",
+		"total" : 1
+	},
+	{
+		"_id" : "forward.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.dnaindia.com",
+		"total" : 1
+	},
+	{
+		"_id" : "dailynewsen.com",
+		"total" : 1
+	},
+	{
+		"_id" : "switchandshift.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.theprovince.com",
+		"total" : 1
+	},
+	{
+		"_id" : "fouziasaeed.wordpress.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.mexidata.info",
+		"total" : 1
+	},
+	{
+		"_id" : "humanrightshouse.org",
+		"total" : 1
+	},
+	{
+		"_id" : "aliran.com",
+		"total" : 1
+	},
+	{
+		"_id" : "news.stv.tv",
+		"total" : 1
+	},
+	{
+		"_id" : "www.vanguardngr.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.egyptindependent.com",
+		"total" : 1
+	},
+	{
+		"_id" : "itunes.apple.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.breitbart.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.680news.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.lequotidien.lu",
+		"total" : 1
+	},
+	{
+		"_id" : "globalnews.ca",
+		"total" : 1
+	},
+	{
+		"_id" : "www.rfi.fr",
+		"total" : 1
+	},
+	{
+		"_id" : "arabist.net",
+		"total" : 1
+	},
+	{
+		"_id" : "sites.asiasociety.org",
+		"total" : 1
+	},
+	{
+		"_id" : "eldeforma.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.winnipegfreepress.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.lancashiretelegraph.co.uk",
+		"total" : 1
+	},
+	{
+		"_id" : "truth-out.org",
+		"total" : 1
+	},
+	{
+		"_id" : "ecowatch.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.petertatchellfoundation.org",
+		"total" : 1
+	},
+	{
+		"_id" : "article.wn.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.gov.uk",
+		"total" : 1
+	},
+	{
+		"_id" : "www.newstrackindia.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.ibtimes.co.uk",
+		"total" : 1
+	},
+	{
+		"_id" : "news.asiaone.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.kuna.net.kw",
+		"total" : 1
+	},
+	{
+		"_id" : "www.gainesville.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.dailynewsegypt.com",
+		"total" : 1
+	},
+	{
+		"_id" : "ventsmagazine.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.thenational.ae",
+		"total" : 1
+	},
+	{
+		"_id" : "www.leftfootforward.org",
+		"total" : 1
+	},
+	{
+		"_id" : "www.thejournal.ie",
+		"total" : 1
+	},
+	{
+		"_id" : "tinyurl.com",
+		"total" : 1
+	},
+	{
+		"_id" : "epetitions.direct.gov.uk",
+		"total" : 1
+	},
+	{
+		"_id" : "live.america.aljazeera.com",
+		"total" : 1
+	},
+	{
+		"_id" : "zimbabwekid.ning.com",
+		"total" : 1
+	},
+	{
+		"_id" : "advocacy.globalvoicesonline.org",
+		"total" : 1
+	},
+	{
+		"_id" : "www.tabascohoy.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.fhr.org.za",
+		"total" : 1
+	},
+	{
+		"_id" : "www.reforma.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.norwaypost.no",
+		"total" : 1
+	},
+	{
+		"_id" : "connecttheworld.blogs.cnn.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.jamaicaobserver.com",
+		"total" : 1
+	},
+	{
+		"_id" : "femalestreetchildren.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.opendemocracy.net",
+		"total" : 1
+	},
+	{
+		"_id" : "www.freedomhouse.org",
+		"total" : 1
+	},
+	{
+		"_id" : "www.thetimes.co.uk",
+		"total" : 1
+	},
+	{
+		"_id" : "www.hindustantimes.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.middle-east-online.com",
+		"total" : 1
+	},
+	{
+		"_id" : "abcnews.go.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.persecution.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.jta.org",
+		"total" : 1
+	},
+	{
+		"_id" : "www.lusakatimes.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.jeuneafrique.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.minimalhome.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.erks.org",
+		"total" : 1
+	},
+	{
+		"_id" : "rightscampaign.blogspot.com",
+		"total" : 1
+	},
+	{
+		"_id" : "boingboing.net",
+		"total" : 1
+	},
+	{
+		"_id" : "domainnotfound.optimum.net",
+		"total" : 1
+	},
+	{
+		"_id" : "www.forbes.com",
+		"total" : 1
+	},
+	{
+		"_id" : "theconversation.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.prweb.com",
+		"total" : 1
+	},
+	{
+		"_id" : "thelede.blogs.nytimes.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.usatoday.com",
+		"total" : 1
+	},
+	{
+		"_id" : "ctmcateer.drupalgardens.com",
+		"total" : 1
+	},
+	{
+		"_id" : "america.aljazeera.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.eureka-startups.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.mcclatchydc.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.dailystar.com.lb",
+		"total" : 1
+	},
+	{
+		"_id" : "www.haitinews.net",
+		"total" : 1
+	},
+	{
+		"_id" : "threatpost.com",
+		"total" : 1
+	},
+	{
+		"_id" : "paraelespiritu.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.imemc.org",
+		"total" : 1
+	},
+	{
+		"_id" : "www.rte.ie",
+		"total" : 1
+	},
+	{
+		"_id" : "news.outlookindia.com",
+		"total" : 1
+	},
+	{
+		"_id" : "indiatoday.intoday.in",
+		"total" : 1
+	},
+	{
+		"_id" : "www.liberal.ca",
+		"total" : 1
+	},
+	{
+		"_id" : "bigstory.ap.org",
+		"total" : 1
+	},
+	{
+		"_id" : "www.ft.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.londonreal.tv",
+		"total" : 1
+	},
+	{
+		"_id" : "www1.unionradio.net",
+		"total" : 1
+	},
+	{
+		"_id" : "uk.finance.yahoo.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.gatwin.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.nytimes.com",
+		"total" : 1
+	},
+	{
+		"_id" : "takeaction.amnestyusa.org",
+		"total" : 1
+	},
+	{
+		"_id" : "westcoastnativenews.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.takepart.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.livemint.com",
+		"total" : 1
+	},
+	{
+		"_id" : "data.foundationcenter.org",
+		"total" : 1
+	},
+	{
+		"_id" : "www.snagfilms.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.planetary.org",
+		"total" : 1
+	},
+	{
+		"_id" : "www.timesofisrael.com",
+		"total" : 1
+	},
+	{
+		"_id" : "blogs.channel4.com",
+		"total" : 1
+	},
+	{
+		"_id" : "allafrica.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.nzherald.co.nz",
+		"total" : 1
+	},
+	{
+		"_id" : "onlygist.blogspot.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.pmnewsnigeria.com",
+		"total" : 1
+	},
+	{
+		"_id" : "ask.fm",
+		"total" : 1
+	},
+	{
+		"_id" : "www.madamasr.com",
+		"total" : 1
+	},
+	{
+		"_id" : "uk.news.yahoo.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www2.ohchr.org",
+		"total" : 1
+	},
+	{
+		"_id" : "www.naharnet.com",
+		"total" : 1
+	},
+	{
+		"_id" : "ifex.org",
+		"total" : 1
+	},
+	{
+		"_id" : "www.sify.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.ebohr.org",
+		"total" : 1
+	},
+	{
+		"_id" : "en.necessaryandproportionate.org",
+		"total" : 1
+	},
+	{
+		"_id" : "www.aawsat.net",
+		"total" : 1
+	},
+	{
+		"_id" : "www.thenewsherald.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.traileraddict.com",
+		"total" : 1
+	},
+	{
+		"_id" : "www.unog.ch",
+		"total" : 1
+	},
+	{
+		"_id" : "www.islampos.com",
+		"total" : 1
+	},
+	{
+		"_id" : "eeas.europa.eu",
+		"total" : 1
+	},
+	{
+		"_id" : "www.laborrights.org",
+		"total" : 1
+	},
+	{
+		"_id" : "www.malaya.com.ph",
+		"total" : 1
+	}
+]

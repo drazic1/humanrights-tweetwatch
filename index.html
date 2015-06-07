@@ -1,0 +1,2299 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="crossfilter.js"></script>
+<script src="brush.js"></script>
+
+<style>
+
+* {
+  /*background-color: #292f33; */
+}
+body {
+  /*margin-top: 40px;*/
+  font-family: Helvetica Neue;
+}
+
+p {
+  font-size: 12px;
+}
+
+h5 {
+  margin:10px;
+
+}
+h4 {
+/*  background-color: #55ACEE; twitter blue
+*/
+  padding-top: 10px;
+  padding-left: 10px;
+  font-family: Helvetica Neue;
+  display: block;
+  /*color: #292f33;*/
+  /*color: white;*/
+  float: left;
+  /*padding-right: 40px;*/
+  margin:5px;
+}
+
+
+.helper {
+  display: inline-block;
+  height: 100%;
+  vertical-align: top;
+  padding-left: 10px;
+}
+
+#title {
+  width: 1400px;
+  float: left;
+  display: inline-block;
+  height: 100%;
+  /*vertical-align: middle;*/
+  /*text-align: bottom;*/
+  padding-bottom: 10px;
+  z-index: auto;
+}
+
+.text {
+  font: 10px sans-serif;
+  pointer-events: none;
+  /*color: black;*/
+}
+
+.wrap_div{
+  width: 100%;
+  overflow: hidden;
+}
+
+.node text {
+/*  position:absolute;
+*/  
+  font: 10px sans-serif;
+  pointer-events: none;
+/*  transform: rotate(-90%);
+  -webkit-transform-origin: 100% 100%;
+  -moz-transform-origin: 100% 100%;
+  -o-transform-origin: 100% 100%;
+  -ms-transform-origin: 100% 100%;
+  transform-origin: 100% 100%;*/
+}
+
+/*#graph {
+  height: 400px;
+  position: absolute;
+  z-index: auto;
+}*/
+
+#menu {
+  /*position: absolute;*/
+  /*top: 500px;*/
+}
+
+#selectOrderTop {
+  position: absolute;
+  z-index: 1;
+  left: 1150px;
+  top: 65px;
+  float: left;
+}
+
+#selectOrderBottom {
+  position: absolute;
+  z-index: 1;
+  left: 1150px;
+  top: 460px;
+  float: left;
+}
+
+/*#resetButton {
+  position: absolute;
+  z-index: 1;
+  left: 1270px;
+  top: 24px;
+}*/
+
+.graph_div{
+  /*position: absolute;*/
+  /*left: 50%;*/
+  width: 1300px;
+  padding-left: 10px;
+  padding-right: 10px;
+  /*vertical-align: middle;*/
+  float: left;
+  /*overflow: scroll;*/
+  /*text-align: center;*/
+}
+
+.menu_div{
+/*  float: left;
+*/  
+/*  width: 2000px;
+*//*  margin-top: 100px;
+*/}
+.selection{
+  /*padding-top: 13px;*/
+  text-align: right;
+  /*padding-right: 200px;*/
+  margin-left: 30px;
+}
+.bar_chart_div{
+  float: left;
+  padding : 10px;
+  height: 300px;
+  width: 250px;
+  margin-left: 20px; 
+  margin-right: 20px;
+  /*margin: 20px;*/
+/*  margin-left: 50px;
+*/}
+
+.chart_area{
+  /*border:1px solid;*/
+  /*border-color: #E0E0E0;*/
+  overflow: scroll;
+  height: 240px;
+  width: 250px;
+}
+
+#toolbox{
+  /*border:1px solid;*/
+  /*border-color: #E0E0E0;*/
+  overflow: scroll;
+  /*height: 60px;*/
+  width: 350px;
+}
+
+.bar {
+  fill: #55ACEE; 
+}
+/*#292f33;*/
+.bar text {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: middle;
+  text-align: right;
+}
+.bar:hover {
+  fill: #ee9755;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
+#menu {
+  position: relative;
+/*  top: 25em;
+*/
+}
+
+#graph {
+  overflow: hidden;
+  z-index:1;
+}
+
+/* CSS for brush*/
+.axis {
+  font: 10px sans-serif;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+
+.axis .halo {
+  fill: none;
+  stroke: #ddd;
+  stroke-width: 10px;
+  stroke-linecap: round;
+}
+
+.brush .extent {
+  stroke: grey;
+  fill: #303030;
+  /*fill: #55ACEE; */
+  /*ee9755; 
+  /*fill-opacity: .5;*/
+  stroke-width: .5px;
+  shape-rendering: crispEdges;
+}
+
+.brush_overview {
+  stroke: #000;
+  fill-opacity: .125;
+  shape-rendering: crispEdges;
+}
+
+/*.brush .handle {
+  fill: #fff;
+  stroke: #000;
+  stroke-opacity: .5;
+  stroke-width: 1.25px;
+  pointer-events: none;
+}
+*/
+#tooltipBar{
+  /*position: absolute;*/
+  /*left: 650px;*/
+  top: 250px;
+  width: 350px;
+  height: auto;
+  /*padding: 10px;*/
+  padding-top: 5px;
+  padding-bottom: 10px;
+  background-color: white;
+  -webkit-border-radius: 5px;
+  -mox-border-radius: 5px;
+  border-radius: 5px;
+  /*-webkit-box-shadow: 4px 4px 10px rgba(0,0,0,0.4);*/
+  /*-moz-box-shadow: 4px 4px 10px rgba(0,0,0,0.4);*/
+  /*box-shadow: 4px 4px 4px 10px rgba(0,0,0,0.4);*/
+  pointer-events: none;
+  text-align: center
+}
+
+/*#tooltipBar.hidden {
+  display: none;
+}*/
+
+#tooltipBar p {
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 12px;
+  line-height: 14px;
+}
+
+#relationshipLabel {
+  position: absolute;
+  left: 1225px;
+  top: 0px;
+  z-index: 2;
+}
+
+#colorKey, #linkKey {
+  padding: 10px
+  padding-top: 0px;
+  margin-left: 30px
+}
+#linkKey {
+  margin-left: 40px;
+}
+
+#legend p {
+  font-size: 10px;
+}
+
+</style>
+<body>
+<p id="relationshipLabel">Relationship:<p>
+<div id="title"> 
+  <h4><img src="https://g.twimg.com/Twitter_logo_blue.png" width="25"><span class="helper">Visualizing the #HumanRights Community</span>
+  </h4>
+  <div id="graph_overview" class="graph_div" style="width:570px; float:left;"></div>
+  <div id="selectBarTop" class="selection" style="float:left;">
+    <div id="resetButton" style="line-height: 3;float:left"><input id="reset_button" type="button" onclick="reset()" value="Reset"></input></div>
+    <!-- <input id="order_button" type="button" onclick="order()" value="Order" ></input> -->
+    <!-- <input id="zoom_button" type="button" onclick="zoom()" value="Zoom out" ></input> -->
+    <div id="rangeSlider" style="float:left"><p style="margin:0; text-align:center">Connection Strength:</p></div>
+    <div style="line-height: 3; float:left">
+      <select id = "selectPlotTop" onChange = "javascript:drawPlot();">
+        <option value = "users-hashtags" selected = "selected">users-hashtags</option>  
+        <option value = "users-domains">users-domains</option>
+        <option value = "users-users">users-users</option>
+        <option value = "domains-hashtags">domains-hashtags</option>
+      </select>
+    </div>
+  </div>
+</div>
+<div id="wrap" class="wrap_div">
+  <div id="graph" class="graph_div"></div>
+  <div id="selectOrderTop">
+    <p style="float:left; margin: 5px;">Sort:</p>
+    <select id="order_button_top" onChange="order()" style="float:left;">
+      <option value = "alphabetically">Alphabetically</option>  
+      <option value = "followers">Followers</option>
+      <option value = "friends">Friends</option>
+      <option value = "tweets">Tweets</option>
+      <option value = "count">Total Appearances</option>
+      <option value = "link_count" selected = "selected">Connection Strength</option>
+    </select>
+  </div>
+  <div id="selectOrderBottom">
+    <p style="float:left; margin: 5px;">Sort:</p>
+    <select id="order_button_bottom" onChange="order()" style="float:left;">
+      <option value = "alphabetically" selected = "selected">Alphabetically</option>  
+      <option value = "count">Total Appearances</option>
+      <option value = "link_count" selected = "selected">Connection Strength</option>
+    </select>
+  </div>
+  <div id="menu" class="menu_div">
+    <div class="bar_chart_div">  
+      <h5 align="center">Users</h5>
+      <div id="users" class="chart_area"></div>
+    </div>
+    <div class="bar_chart_div"> 
+      <h5 align="center">Hashtags</h5>
+      <div id="hashtags" class="chart_area"></div>
+    </div>
+    <div class="bar_chart_div">
+      <h5 align="center">Domains</h5>
+      <div id="domains" class="chart_area"></div>
+    </div>
+    <div class="bar_chart_div" style="width:350px">
+      <h5 align="center">Key</h5>
+      <!-- <p>Key</p> -->
+      <div id="key">
+        <div id="colorKey" style="width:120px; float:left;">
+          <p align="center">Total Appearances</p>
+        </div>
+        <div id="linkKey" style="width:120px; float:left;">
+          <p align="center">Connection Strength</p>
+        </div>
+      </div>
+      <div id="toolbox">
+        <!-- <p>Set Link Strengh:</p> -->
+        <!-- <div id="rangeSlider"></div> -->
+        <div id="tooltipBar" class="hidden">
+          <p><strong><span id="name">Entity</span></strong></p>
+          <p><span id="value">Attribute : Value</span></p>
+        </div>
+      </div>
+      <div id="legend">
+        <p><strong>Connection: </strong> Two entities are connected if they appear in the same tweet<br>
+          <strong>Connection Strength: </strong> Frequency of coappearance between two entities<br>
+          <strong>Total Appearances: </strong> Total number of appearances of a single entity<br>
+<!-- 
+        <p><strong><span>Friends:</span></strong> lorem ipsum es</p>
+        <p><strong><span>Count:</span></strong> lorem ipsum es</p>
+        <p><strong><span>Link Count:</span></strong> lorem ipsum es</p>
+        <p><strong><span>Link Strenght:</span></strong> lorem ipsum es</p> -->
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+
+var links, colorScale = [];
+var zoomed=false;
+var width_graph=0;
+var all_users =[];
+var users_array = [];
+var all_hashtags =[];
+var hashtags_array = [];
+var all_domains =[];
+var domains_array = [];
+var colorScale = new Object();
+var graph_type = "users-hashtags"
+colorScale["user"] = ["#eff3ff", "#bdd7e7", "#6baed6", "#2171b5"];
+colorScale["hashtag"] = ["#edf8e9", "#bae4b3", "#74c476", "#238b45"];
+colorScale["domain"] = ["#feedde", "#fdbe85", "#fd8d3c", "#d94701"];
+colorScale["spare"] = ["#f2f0f7", "#cbc9e2", "#9e9ac8", "#6a51a3"];
+
+function drawPlot(){
+  ordering=false;
+  var order_types_top = document.getElementById("order_button_top").getElementsByTagName("option");
+  var order_types_bottom = document.getElementById("order_button_bottom").getElementsByTagName("option");
+  console.log(order_types_top);
+  var textfield = document.getElementById("selectPlotTop").value;
+  if (textfield == "users-hashtags") {
+    d3.json('userHashtagLinks.json', function(error, json) {
+      links = json;
+      order_types_top[1].disabled = false;
+      order_types_top[2].disabled = false;
+      order_types_top[3].disabled = false;
+
+      order_types_top[0].selected = false;
+      order_types_top[1].selected = false;
+      order_types_top[2].selected = false;
+      order_types_top[3].selected = false;
+      order_types_top[4].selected = false;
+      order_types_top[5].selected = true;
+
+      order_types_bottom[0].selected = false;
+      order_types_bottom[1].selected = false;
+      order_types_bottom[2].selected = true;
+
+      document.getElementById("selectOrderBottom").style.visibility="visible";
+
+      prepare_graph("users-hashtags");
+    });
+  }
+  else if (textfield == "users-domains") {
+    d3.json('userDomainLinks.json', function(error, json) {
+      links = json;
+    console.log(links.length)
+
+    for (var i = 0; i < links.length; i++ ){
+      if (links[i].target == "www.youtube.com") {
+        links.splice(i,1);  // removes 1 object at position i
+        i--; //when element is removed, the rest are moved backwards 1 position, so we need to recheck same position
+      }
+    }
+    console.log(links.length)
+
+      order_types_top[1].disabled = false;
+      order_types_top[2].disabled = false;
+      order_types_top[3].disabled = false;
+
+      order_types_top[0].selected = false;
+      order_types_top[1].selected = false;
+      order_types_top[2].selected = false;
+      order_types_top[3].selected = false;
+      order_types_top[4].selected = false;
+      order_types_top[5].selected = true;
+
+      order_types_bottom[0].selected = false;
+      order_types_bottom[1].selected = false;
+      order_types_bottom[2].selected = true;
+
+      document.getElementById("selectOrderBottom").style.visibility="visible";
+
+      prepare_graph("users-domains");
+    });
+  }
+  else if (textfield == "users-users" ) {
+   d3.json('userUserLinks.json', function(error, json) {
+      links = json;
+      order_types_top[1].disabled = false;
+      order_types_top[2].disabled = false;
+      order_types_top[3].disabled = false;
+
+      order_types_top[0].selected = false;
+      order_types_top[1].selected = false;
+      order_types_top[2].selected = false;
+      order_types_top[3].selected = false;
+      order_types_top[4].selected = false;
+      order_types_top[5].selected = true;
+
+      order_types_bottom[0].selected = false;
+      order_types_bottom[1].selected = false;
+      order_types_bottom[2].selected = true;
+
+      document.getElementById("selectOrderBottom").style.visibility="hidden";
+
+      prepare_graph("users-users");
+    }); 
+  }
+  else if (textfield == "domains-hashtags" ) {
+   d3.json('hashtagDomainLinks.json', function(error, json) {
+      links = json;
+    console.log(links.length)
+
+    for (var i = 0; i < links.length; i++ ){
+      if (links[i].target == "www.youtube.com") {
+        links.splice(i,1);  // removes 1 object at position i
+        i--; //when element is removed, the rest are moved backwards 1 position, so we need to recheck same position
+      }
+    }
+    console.log(links.length)
+
+      order_types_top[1].disabled = true;
+      order_types_top[2].disabled = true;
+      order_types_top[3].disabled = true;
+
+      order_types_top[0].selected = false;
+      order_types_top[1].selected = false;
+      order_types_top[2].selected = false;
+      order_types_top[3].selected = false;
+      order_types_top[4].selected = false;
+      order_types_top[5].selected = true;
+
+      order_types_bottom[0].selected = false;
+      order_types_bottom[1].selected = false;
+      order_types_bottom[2].selected = true;
+
+      document.getElementById("selectOrderBottom").style.visibility="visible";
+
+      prepare_graph("domains-hashtags");
+    }); 
+  }
+}
+ 
+// import top domains, hashtags, and users and generate bar graphs
+  d3.json('hashtagData.json', function(error,json){
+    hashtags = json;
+    hashtags_array = hashtags;
+    all_hashtags = hashtags_array;
+    console.log("hashtags:",all_hashtags.length);
+    //hashtags = hashtags.slice(0,100)
+    generate_bar_graph(hashtags, "#hashtags");
+  })
+
+  d3.json('domainData.json', function(error,json){
+    domains = json;
+    domains_array = domains;
+    all_domains = domains_array;
+    console.log("domains:",all_domains.length);
+    generate_bar_graph(domains, "#domains");
+  })
+  d3.json('userData.json', function(error, json) {
+    users = json;
+    users_array = users;
+    all_users = users_array;
+    console.log("users:",all_users.length);
+    // users = users.slice(0,50); // select subset of data
+    generate_bar_graph(users,"#users");
+  }) 
+
+drawPlot();
+
+function prepare_graph(graph_type){
+
+  nodes = {};
+
+  // Compute the distinct nodes from the links.
+
+  links.forEach(function(link) {
+    if (nodes[link.source]){
+      nodes[link.source].count += link.count;
+      link.source = nodes[link.source];
+    }else{
+      nodes[link.source] = {name: link.source, _id: link.source, count: link.count, type: link.source_type, clicked: false };
+      link.source = nodes[link.source];
+    }
+    if (nodes[link.target]){
+      nodes[link.target].count += link.count;
+      link.target = nodes[link.target];
+    }else{
+      nodes[link.target] = {name: link.target, _id: link.target, count: link.count, type: link.target_type, clicked: false };
+      link.target = nodes[link.target];    }
+  });
+  // Crossfilter to select number of links.
+  var cf_links = crossfilter(links);
+  links_byCount = cf_links.dimension(function(p) { return p.count; });
+
+  /*
+  links_bySource = cf_links.dimension(function(p) { return p.target.name; });
+  var test = links_bySource.filter("humanrights");
+  console.log(test.top(Infinity));
+  */
+  
+
+  //console.log(links)
+  //console.log(nodes)
+  generatevis(graph_type);
+}
+
+// global variable to detect whether user clicked a bar from chart or node in graph
+var clicked = false;
+
+function generatevis (graph_type){  
+  d3.select("#graph").select('svg').remove();
+  d3.select("#graph_overview").select('svg').remove();
+  console.log(graph_type,":", links.length);
+  var width = 3000,
+      height = 400,
+      padding = 1.5, // separation between same-color circles
+      clusterPadding = 6, // separation between different-color circles
+      maxRadius = 12
+      number_of_nodes=Object.keys(nodes).length; //how to compute automatically??
+
+  if (graph_type == "users-users") { height = 370;}
+  
+
+  var sum_1=0; //number of entities at top graph_line
+  var sum_2=0; //number of entities at bottom graph_line
+
+  if(graph_type == "users-users"){
+    for(var key in nodes){
+      sum_1 ++;
+      sum_2 ++;
+    }
+  }else if (graph_type == "domains-hashtags"){
+    for(var key in nodes){
+      if ((nodes[key].type == "domain")) {
+        sum_1 ++;
+      } else { 
+        sum_2 ++;
+      };
+    } 
+  }else{
+    for(var key in nodes){
+      if ((nodes[key].type == "user")) {
+        sum_1 ++;
+      } else { 
+        sum_2 ++;
+      };
+    } 
+  }
+
+  width = 10*Math.max(sum_1, sum_2);
+  width_graph=width;
+  var x1 = d3.scale.linear()
+    .rangeRound([5,width-75]);
+  var x2 = d3.scale.linear()
+    .rangeRound([5,width-75]);
+
+  var node_width = 6; 
+  var node_height = 10;
+  x1.domain([0,sum_1*2]);
+  x2.domain([0,sum_2*2]);
+    counter_1=0;
+    counter_2=0;
+
+  if(graph_type == "users-users"){
+    if(document.getElementById("order_button_top").value!="link_count"){
+      for (var i = 0; i < users_array.length - 1; i++){
+        if(nodes[users_array[i].name] && nodes[users_array[i].name].type == "user"){
+          nodes[users_array[i].name].fixed = true;
+          nodes[users_array[i].name].x = x1(counter_1);
+          nodes[users_array[i].name].y = 270;
+          nodes[users_array[i].name].px = x1(counter_1);
+          counter_1 +=2;
+        } 
+      }
+    }else {
+      for(var key in nodes){
+        nodes[key].fixed = true;
+        if ((nodes[key].type == "user")) {
+          nodes[key].y = 270;
+          nodes[key].x = x1(counter_1);
+          nodes[key].px = x1(counter_1);
+          counter_1 +=2;
+        }
+      }
+    }
+
+
+
+
+
+
+
+
+    /*
+    if(ordering){
+      for (var i = 0; i < users_array.length - 1; i++){
+        if(nodes[users_array[i].name]){
+          nodes[users_array[i].name].fixed = true;
+          nodes[users_array[i].name].x = x1(counter_1);
+          nodes[users_array[i].name].y = 350;
+          nodes[users_array[i].name].px = x1(counter_1);
+          counter_1 +=2;
+        } 
+      }
+    }else{
+      for(var key in nodes){
+        nodes[key].fixed = true;
+        nodes[key].y = 350;
+        nodes[key].x = x1(counter_1);
+        nodes[key].px = x1(counter_1);
+        counter_1 +=2;
+      }
+    }*/
+  }else if (graph_type == "domains-hashtags"){
+    if(document.getElementById("order_button_top").value!="link_count"){
+      for (var i = 0; i < domains_array.length - 1; i++){
+        if(nodes[domains_array[i]._id] && nodes[domains_array[i]._id].type == "domain"){
+          nodes[domains_array[i]._id].fixed = true;
+          nodes[domains_array[i]._id].x = x1(counter_1);
+          nodes[domains_array[i]._id].y = 100;
+          nodes[domains_array[i]._id].px = x1(counter_1);
+          counter_1 +=2;
+        } 
+      }
+    }else {
+      for(var key in nodes){
+        nodes[key].fixed = true;
+        if ((nodes[key].type == "domain")) {
+          nodes[key].y = 100;
+          nodes[key].x = x1(counter_1);
+          nodes[key].px = x1(counter_1);
+          counter_1 +=2;
+        }
+      }
+    }
+
+    if(document.getElementById("order_button_bottom").value!="link_count"){
+      for (var i = 0; i < hashtags_array.length - 1; i++){
+        if(nodes[hashtags_array[i]._id] && nodes[hashtags_array[i]._id].type == "hashtag"){
+          nodes[hashtags_array[i]._id].fixed = true;
+          nodes[hashtags_array[i]._id].x = x2(counter_2);
+          nodes[hashtags_array[i]._id].y = 300;
+          nodes[hashtags_array[i]._id].px = x2(counter_2);
+          counter_2 +=2;
+        } 
+      }
+    }else {
+      for(var key in nodes){
+        nodes[key].fixed = true;
+        if ((nodes[key].type == "hashtag")){ 
+          nodes[key].y = 300;
+          nodes[key].x = x2(counter_2);
+          nodes[key].px = x2(counter_2);
+          counter_2 +=2;
+          };
+      }
+    }
+
+
+
+
+
+
+
+
+
+
+    /*
+    if(ordering){
+      for (var i = 0; i < hashtags_array.length - 1; i++){
+        if(nodes[hashtags_array[i]._id]){
+          nodes[hashtags_array[i]._id].fixed = true;
+          nodes[hashtags_array[i]._id].x = x2(counter_2);
+          nodes[hashtags_array[i]._id].px = x2(counter_2);
+          counter_2 +=2;
+        } 
+      }
+    }else{
+      for(var key in nodes){
+        nodes[key].fixed = true;
+        if ((nodes[key].type == "domain")) {
+          nodes[key].y = 100;
+          nodes[key].x = x1(counter_1);
+          nodes[key].px = x1(counter_1);
+          counter_1 +=2;
+        } else { 
+          nodes[key].y = 300;
+          nodes[key].x = x2(counter_2);
+          nodes[key].px = x2(counter_2);
+          counter_2 +=2;
+          };
+      }
+    }*/
+  }else if (graph_type == "users-hashtags"){
+    
+    if(document.getElementById("order_button_top").value!="link_count"){
+      for (var i = 0; i < users_array.length - 1; i++){
+        if(nodes[users_array[i].name] && nodes[users_array[i].name].type == "user"){
+          nodes[users_array[i].name].fixed = true;
+          nodes[users_array[i].name].x = x1(counter_1);
+          nodes[users_array[i].name].y = 100;
+          nodes[users_array[i].name].px = x1(counter_1);
+          counter_1 +=2;
+        } 
+      }
+    }else {
+      for(var key in nodes){
+        nodes[key].fixed = true;
+        if ((nodes[key].type == "user")) {
+          nodes[key].y = 100;
+          nodes[key].x = x1(counter_1);
+          nodes[key].px = x1(counter_1);
+          counter_1 +=2;
+        }
+      }
+    }
+
+    if(document.getElementById("order_button_bottom").value!="link_count"){
+      for (var i = 0; i < hashtags_array.length - 1; i++){
+        if(nodes[hashtags_array[i]._id] && nodes[hashtags_array[i]._id].type == "hashtag"){
+          nodes[hashtags_array[i]._id].fixed = true;
+          nodes[hashtags_array[i]._id].x = x2(counter_2);
+          nodes[hashtags_array[i]._id].y = 300;
+          nodes[hashtags_array[i]._id].px = x2(counter_2);
+          counter_2 +=2;
+        } 
+      }
+    }else {
+      for(var key in nodes){
+        nodes[key].fixed = true;
+        if ((nodes[key].type == "hashtag")){ 
+          nodes[key].y = 300;
+          nodes[key].x = x2(counter_2);
+          nodes[key].px = x2(counter_2);
+          counter_2 +=2;
+          };
+      }
+    }
+  }else if (graph_type == "users-domains"){
+    if(document.getElementById("order_button_top").value!="link_count"){
+      for (var i = 0; i < users_array.length - 1; i++){
+        if(nodes[users_array[i].name] && nodes[users_array[i].name].type == "user"){
+          nodes[users_array[i].name].fixed = true;
+          nodes[users_array[i].name].x = x1(counter_1);
+          nodes[users_array[i].name].y = 100;
+          nodes[users_array[i].name].px = x1(counter_1);
+          counter_1 +=2;
+        } 
+      }
+    }else {
+      for(var key in nodes){
+        nodes[key].fixed = true;
+        if ((nodes[key].type == "user")) {
+          nodes[key].y = 100;
+          nodes[key].x = x1(counter_1);
+          nodes[key].px = x1(counter_1);
+          counter_1 +=2;
+        }
+      }
+    }
+
+    if(document.getElementById("order_button_bottom").value!="link_count"){
+      for (var i = 0; i < domains_array.length - 1; i++){
+        if(nodes[domains_array[i]._id] && nodes[domains_array[i]._id].type == "domain"){
+          nodes[domains_array[i]._id].fixed = true;
+          nodes[domains_array[i]._id].x = x2(counter_2);
+          nodes[domains_array[i]._id].y = 300;
+          nodes[domains_array[i]._id].px = x2(counter_2);
+          counter_2 +=2;
+        } 
+      }
+    }else {
+      for(var key in nodes){
+        nodes[key].fixed = true;
+        if ((nodes[key].type == "domain")){ 
+          nodes[key].y = 300;
+          nodes[key].x = x2(counter_2);
+          nodes[key].px = x2(counter_2);
+          counter_2 +=2;
+          };
+      }
+    }
+  }
+
+  var force = d3.layout.force()
+      .nodes(d3.values(nodes))
+      .links(links)
+      // .size([width, height])
+      .on("tick", tick)
+      .start()
+
+  svg = d3.select("#graph").append("svg")
+      .attr("width", width)
+      .attr("height", height).append("g").attr("id","graph_group");
+
+  if(graph_type=="users-users"){
+    svg_overview = d3.select("#graph_overview").append("svg")
+      .attr("width", width/4.5)
+      .attr("height", height/4.5).append("g").attr("id","graph_group"); 
+  } else if (graph_type == "domains-hashtags") {
+    svg_overview = d3.select("#graph_overview").append("svg")
+    .attr("width", width/8.5)
+    .attr("height", height/8).append("g").attr("id","graph_group");     
+  } else if (graph_type == "users-domains") {
+    svg_overview = d3.select("#graph_overview").append("svg")
+    .attr("width", width/8)
+    .attr("height", height/8).append("g").attr("id","graph_group"); 
+  } else {
+    svg_overview = d3.select("#graph_overview").append("svg")
+    .attr("width", width/8.5)
+    .attr("height", height/8).append("g").attr("id","graph_group"); 
+  }  
+
+  if (graph_type == "users-users") {
+    svg_overview.attr("transform",
+      "translate(0,0)"
+      + " scale(" + 400/width_graph + ")");    
+  } else if ( graph_type == "domains-hashtags" ){
+    svg_overview.attr("transform",
+      "translate(0,0)"
+      + " scale(" + 200/width_graph + ")");  
+  } else if ( graph_type == "users-domains" ){
+    svg_overview.attr("transform",
+      "translate(0,0)"
+      + " scale(" + 300/width_graph + ")"); 
+  } else {
+      svg_overview.attr("transform",
+        "translate(0,0)"
+        + " scale(" + 560/width_graph + ")"); 
+    }
+
+  xbrush = d3.scale.linear()
+    .rangeRound([0, width_graph]);
+  xbrush.domain([0,width_graph]);
+
+  brush_overview = d3.svg.brush()
+    .x(xbrush)
+    .extent([0, xbrush(1250)])
+    .on("brush", brushed);
+    
+  svg_overview.append("g")
+      .attr("class", "brush_overview")
+      .call(brush_overview)
+      .call(brush_overview.event)
+      .selectAll("rect")
+        .attr("y", -6)
+        .attr("height", height + 7);
+  if(zoomed){
+    svg.attr("transform",
+      "translate(0,80)"
+      + " scale(" + 1250/width_graph + ")")
+  }
+  
+  if(graph_type == "users-users"){
+    var link = svg.selectAll("path")
+      .data(force.links())
+    .enter().append("path")
+      .attr("class", function(d) {
+        return "link source-"+d.source.name+" target-"+d.target.name;
+      })
+      .style("stroke-width", function(d){
+        //return (Math.log(d.count)/2.5);
+        return (d.count/5);
+      })
+      .style("stroke", "#303030")
+      .style("fill", "none")
+      .attr("d", function(d) {
+        if(d.source.x<d.target.x){
+          return 'M ' + d.source.x + ','+d.source.y+' A ' + 25 + ',' + 5 + ' 0 0,1 ' + d.target.x + ','+d.target.y;
+        }else{
+          return 'M ' + d.target.x + ','+d.target.y+' A ' + 25 + ',' + 5 + ' 0 0,1 ' + d.source.x + ','+d.source.y;          
+        }
+      });
+
+      var link_overview = svg_overview.selectAll("path")
+      .data(force.links())
+    .enter().append("path")
+      .attr("class", function(d) {
+        return "link source-"+d.source.name+" target-"+d.target.name;
+      })
+      .style("stroke-width", function(d){
+        //return (Math.log(d.count)/2.5);
+        return (d.count/5);
+      })
+      .style("stroke", "#303030")
+      .style("fill", "none")
+      .attr("d", function(d) {
+        if(d.source.x<d.target.x){
+          return 'M ' + d.source.x + ','+d.source.y+' A ' + 25 + ',' + 5 + ' 0 0,1 ' + d.target.x + ','+d.target.y;
+        }else{
+          return 'M ' + d.target.x + ','+d.target.y+' A ' + 25 + ',' + 5 + ' 0 0,1 ' + d.source.x + ','+d.source.y;          
+        }
+      });
+  } else {
+    var link = svg.selectAll("line")
+      .data(force.links())
+    .enter().append("line")
+      .attr("class", function(d) {
+        return "link source-"+d.source.name+" target-"+d.target.name;
+      })
+      .style("stroke-width", function(d){
+        // console.log(d.count+"-->"+Math.log(d.count)/Math.log(2))
+        // return (Math.log(d.count)/2.5);
+        return d.count/10;
+      })
+      .style("stroke", "#303030");
+      //.style("stroke", "url(#gradient)");
+      //.attr("class", "link");
+
+    var link_overview = svg_overview.selectAll("line")
+      .data(force.links())
+    .enter().append("line")
+      .attr("class", function(d) {
+        return "link source-"+d.source.name+" target-"+d.target.name;
+      })
+      .style("stroke-width", function(d){
+        // console.log(d.count+"-->"+Math.log(d.count)/Math.log(2))
+        // return (Math.log(d.count)/2.5);
+        return d.count/10;
+      })
+      .style("stroke", "#303030");
+        
+  }   
+  
+
+  var node = svg.selectAll("node")
+      .data(force.nodes())
+    .enter().append("g")
+      .attr("text-anchor", "bottom")
+      .attr("class", "node")
+      .on("mouseover", mouseover)
+      .on("mouseout", mouseout)
+      .on("click",click)
+      //.on("dblclick", doubleclick);
+      //.call(force.drag);
+
+  var node_overview = svg_overview.selectAll("node")
+      .data(force.nodes())
+    .enter().append("g")
+      .attr("text-anchor", "bottom")
+      .attr("class", "node");
+
+  // node.append("circle")
+  //     .attr("r", 8)
+    node.append("rect")
+      .attr("height", node_height)
+      .attr("width", node_width) 
+      .attr("transform", function(d){
+        // if (( d.type == "user")|| (d.type == "domain")) {
+        if (graph_type == "users-users") {
+          return "translate(-" + node_width/2 + ", 0)"
+        } else if (( d.y == 100)) {
+          return "translate(0,-"+node_height+")";
+        } else {return "translate(0,0)"}
+      })
+      .style("fill", function(d, i) {
+        if (d.count > 30){
+          return colorScale[d.type][3];
+         } else if ( d.count > 10) {
+          return colorScale[d.type][2];
+         } else if ( d.count > 2) {
+          return colorScale[d.type][1];
+         } else {
+          return colorScale[d.type][0];
+         }
+      });
+
+  node_overview.append("rect")
+      .attr("height", node_height)
+      .attr("width", node_width) 
+      .attr("transform", function(d){
+        if (( d.y == 100)) {
+          return "translate(0,-"+node_height+")";
+        } else {return "translate(0,0)"}
+      })
+      .style("fill", function(d, i) {
+        if (d.count > 30){
+          return colorScale[d.type][3];
+         } else if ( d.count > 10) {
+          return colorScale[d.type][2];
+         } else if ( d.count > 2) {
+          return colorScale[d.type][1];
+         } else {
+          return colorScale[d.type][0];
+         }
+      });
+          
+  node.append("g")
+      .attr("class", "textInNode")
+      .attr("text-anchor", "bottom")
+      // .attr("transform", function(d){
+      //   if(typeof d.name == "number"){
+      //     return "rotate(-45)";
+      //   } else {return "rotate(45)"}
+      // })
+    .append("text")
+      // .attr("vertical-align","top")
+      .attr("y", function(d) {
+        if(graph_type == "users-users"){
+          return 1.5*node_height
+        }else if(graph_type == "users-hashtags" || graph_type == "users-domains"){
+          // if (( d.type == "user")) {
+          if (( d.y == 100)) {
+            return -node_height;
+          } else {
+            return node_height+node_height/2;
+          }
+        }else if(graph_type == "domains-hashtags"){
+          if (( d.type == "domain")) {
+            return -.5*node_height;
+          } else {
+            return node_height+node_height/2;
+          }
+        }
+      })
+      .attr("dx", function(d){
+        if(graph_type == "users-hashtags" || graph_type == "users-domains") {
+          if (( d.type == "user")) {
+            return 2*node_width;
+          } else {
+            return 2*node_width;
+          }
+        }else if(graph_type == "domains-hashtags"){
+          if (( d.type == "domain")) {
+            return 2.5*node_width;
+          } else {
+            return 2*node_width;
+          }
+        }else if(graph_type == "users-users"){
+          return 2*node_width;
+        }
+      })
+      .attr("transform", function(d){
+        if(graph_type == "users-hashtags" || graph_type == "users-domains") {
+          if (( d.type == "user")) {
+            return "rotate(-45)";
+          } else {return "rotate(45)"}
+        }else if(graph_type == "domains-hashtags"){
+          if (( d.type == "domain")) {
+            return "rotate(-45)";
+          } else {return "rotate(45)"}
+        }else if(graph_type == "users-users"){
+          return "rotate(45)";
+        }
+      })
+      // .attr("transform-origin", "0% 0%")
+      // .style("transformOrigin","0 0")
+      .style("font-size","8px")
+      .text(function(d) { return d.name; });
+
+      // makde sure node_overview matches all node/text positions above in node
+  node_overview.append("g")
+      .attr("class", "textInNode")
+      .attr("text-anchor", "bottom")
+      // .attr("transform", function(d){
+      //   if(typeof d.name == "number"){
+      //     return "rotate(-45)";
+      //   } else {return "rotate(45)"}
+      // })
+    .append("text")
+      // .attr("vertical-align","top")
+      .attr("y", function(d) {
+        if(graph_type == "users-users"){
+          return 5
+        }else if(graph_type == "users-hashtags" || graph_type == "users-domains"){
+          if (( d.type == "user")) {
+            return -node_height;
+          } else {
+            return node_height+node_height/2;
+          }
+        }else if(graph_type == "domains-hashtags"){
+          if (( d.type == "domain")) {
+            return 0;
+          } else {
+            return node_height+node_height/2;
+          }
+        }
+      })
+      .attr("dx", function(d){
+        if(graph_type == "users-hashtags" || graph_type == "users-domains") {
+          if (( d.type == "user")) {
+            return 2*node_width;
+          } else {
+            return 2*node_width;
+          }
+        }else if(graph_type == "domains-hashtags"){
+          if (( d.type == "domain")) {
+            return node_width;
+          } else {
+            return 2*node_width;
+          }
+        }else if(graph_type == "users-users"){
+          return node_width;
+        }
+      })
+      .attr("transform", function(d){
+        if(graph_type == "users-hashtags" || graph_type == "users-domains") {
+          if (( d.type == "user")) {
+            return "rotate(-45)";
+          } else {return "rotate(45)"}
+        }else if(graph_type == "domains-hashtags"){
+          if (( d.type == "domain")) {
+            return "rotate(-45)";
+          } else {return "rotate(45)"}
+        }else if(graph_type == "users-users"){
+          return "rotate(45)";
+        }
+      })
+      // .attr("transform-origin", "0% 0%")
+      // .style("transformOrigin","0 0")
+      .style("font-size","8px")
+      .text(function(d) { return d.name; }); 
+          
+  function tick() {
+    link
+        .attr("x1", function(d) { return d.source.x+node_width/2; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x+node_width/2; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node
+        .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+        // .each(collide(.5));
+
+    link_overview
+        .attr("x1", function(d) { return d.source.x+node_width/2; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x+node_width/2; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node_overview
+        .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })    
+
+        force.stop();
+  }
+
+  function mouseover() {
+    // var test = d3.select(this);
+    // console.log(test)
+
+    // select highlight node 
+    var a = d3.select(this).text();
+    // console.log(a)
+    d3.select(this).select("text")
+        //.transition()
+        //.duration(750)
+        .style("font-weight", "bold");
+
+    // highlight corresponding bar in chart
+    highlightBar = d3.selectAll(".chart_area").select("svg").selectAll(".bar").filter(function(d) {
+        if (d.name) { return d.name == a } else { return d._id == a } });
+    highlightBar.style("fill", "#ee9755")
+
+    // if no nodes have been clicked, lower opacity of all lines 
+    if(!clicked){
+      if (graph_type=="users-users"){
+        svg.selectAll("path").style("opacity", 0.05);
+      } else {
+        svg.selectAll("line").style("opacity", 0.05);
+      }
+    }  
+
+    // highlight appropriate links
+    if (graph_type=="users-users"){
+      higlight_links = svg.selectAll("path").filter(function(d){
+        return d.target.name == a || d.source.name == a
+      }).style("opacity", 1);
+    } else {
+      higlight_links = svg.selectAll("line").filter(function(d){
+          return d.target.name == a || d.source.name == a
+        }).style("opacity", 1);
+    }
+
+    // highlight all node names associated with links
+    higlight_links[0].forEach( function (line) {
+      s = line.__data__.source.name;
+      t = line.__data__.target.name;
+      var nameToHighlight;
+      if (s == a) { nameToHighlight = t; } else { nameToHighlight = s;}
+
+      highlightNode = node.select("g").select("text").filter( function(d) { 
+        return d.name == nameToHighlight})
+        //.transition()
+        //.duration(750)
+        .style("font-weight", "bold");
+      // console.log(highlightNode)
+
+      // highlight all bars in barchart
+      otherBar = d3.selectAll(".chart_area").select("svg").selectAll(".bar").filter(function(d) {
+        if (d.name) { return d.name == nameToHighlight } else { return d._id == nameToHighlight } })
+        .style("fill", "#ee9755")
+
+      })
+
+// console.log(highlightBar)
+    // update the tooltip value
+    var f = d3.format(",");
+    highlightBar.forEach(function(d) { 
+      if (d.length == 1 ) {
+        tip = d[0].__data__;
+        //console.log(tip)  // ****************fix this (just users) **********
+      
+        d3.select("#tooltipBar")
+          .select("#name")
+          .text(function() {if (tip.name) { return tip.name; } else { return tip._id; }});
+
+        d3.select("#tooltipBar")
+          .select("#value")
+          .text(function() {if (tip.name) { return "Followers: " + f(tip.followers) + " Tweets: " + f(tip.tweets) + "  Friends: " + f(tip.friends); } 
+            else { return "Total: " +tip.total; }});
+
+        d3.select("#tooltipBar").classed("hidden", false);
+      }
+    })
+  }
+
+  function mouseout() {
+    // if no nodes have been clicked, all lines become visible
+    if(!clicked){
+      if (graph_type=="users-users"){
+        svg.selectAll("path").style("opacity", 1);
+      } else {
+        svg.selectAll("line").style("opacity", 1);
+      }
+    }
+
+    // if node was not clicked, text/lines returns to original size
+    if (!d3.select(this)[0][0].__data__.clicked) {
+      d3.select(this).select("text")
+          //.transition()
+          //.duration(750)
+          .style("font-weight", "normal");
+
+      var a = d3.select(this).text();
+      if (graph_type=="users-users"){
+        higlight_links = svg.selectAll("path").filter(function(d){
+          return d.target.name == a || d.source.name == a
+        }).style("opacity", 0.05);
+      } else {
+        higlight_links = svg.selectAll("line").filter(function(d){
+          return d.target.name == a || d.source.name == a
+        }).style("opacity", 0.05);
+      }
+
+      // unhighlight bar in chart
+      highlightBar = d3.selectAll(".chart_area").select("svg").selectAll(".bar").filter(function(d) {
+        if (d.name) { return d.name == a } else { return d._id == a } })
+        .style("fill", "#55ACEE")
+
+      // unhighlight other nodes
+      higlight_links[0].forEach( function (line) {
+        s = line.__data__.source.name;
+        t = line.__data__.target.name;
+        var nameToHighlight;
+        if (s == a) { nameToHighlight = t; } else { nameToHighlight = s;}
+
+        highlightNodes = node.filter( function(d) {
+          return d.name == nameToHighlight
+        })
+        // ignore nodea already clicked 
+        if (!highlightNodes[0][0].__data__.clicked ){
+          highlightNodes = node.select("g").select("text").filter( function(d) { 
+            return d.name == nameToHighlight
+          })
+            //.transition()
+            //.duration(750)
+            .style("font-weight", "normal");
+          // console.log(highlightNodes)
+          // highlight all bars in barchart
+          highlightBar = d3.selectAll(".chart_area").select("svg").selectAll(".bar").filter(function(d) {
+            if (d.name) { return d.name == nameToHighlight } else { return d._id == nameToHighlight } })
+            .style("fill", "#55ACEE")
+        }
+      })
+    }
+
+    // if no nodes are clicked return to default graph
+    clickedNodes = svg.selectAll(".node").select("g")[0].filter(function(d) {
+      return d.__data__.clicked == true;
+    })
+    if (clickedNodes.length == 0) {
+      svg.selectAll("path").style("opacity", 1);
+      svg.selectAll("line").style("opacity", 1);
+      clicked = false;
+    }
+
+  }
+
+  function click () {
+
+    var a = d3.select(this).text();
+
+    // if node not previously clicked, highlight text and lines
+    if(!d3.select(this)[0][0].__data__.clicked){
+
+      svg.selectAll("line").filter(function(d){
+        return d.target.name == a || d.source.name == a
+      }).style("opacity", 1).attr("higlight", "true");
+
+      svg.selectAll("path").filter(function(d){
+        return d.target.name == a || d.source.name == a
+      }).style("opacity", 1).attr("higlight", "true");
+
+      d3.select(this)[0][0].__data__.clicked = true;
+      //********** also update connected nodes as clicked ***********
+
+      if (graph_type=="users-users"){
+        higlight_links = svg.selectAll("path").filter(function(d){
+          return d.target.name == a || d.source.name == a
+        })
+      } else {
+        higlight_links = svg.selectAll("line").filter(function(d){
+          return d.target.name == a || d.source.name == a
+        })
+      }
+
+      higlight_links[0].forEach( function (line) {
+        s = line.__data__.source.name;
+        t = line.__data__.target.name;
+        var nameToHighlight;
+        if (s == a) { nameToHighlight = t; } else { nameToHighlight = s;}
+
+        highlightNodes = node.filter( function(d) {
+          return d.name == nameToHighlight
+        })
+        highlightNodes[0][0].__data__.clicked = true;
+
+      })
+        // console.log(d3.select(this))
+        // console.log(highlightNodes)
+
+      clicked = true;    
+      // console.log(d3.select(this))
+    } else {
+      // node was clicked, nodes and lines unhighlighed after mouseover
+      d3.select(this)[0][0].__data__.clicked = false; 
+      //********** also update connected nodes ************
+
+      if (graph_type=="users-users"){
+        higlight_links = svg.selectAll("path").filter(function(d){
+          return d.target.name == a || d.source.name == a
+        })
+      } else {
+        higlight_links = svg.selectAll("line").filter(function(d){
+          return d.target.name == a || d.source.name == a
+        })
+      }
+
+      higlight_links[0].forEach( function (line) {
+        s = line.__data__.source.name;
+        t = line.__data__.target.name;
+        var nameToHighlight;
+        if (s == a) { nameToHighlight = t; } else { nameToHighlight = s;}
+
+        highlightNodes = node.filter( function(d) {
+          return d.name == nameToHighlight
+        })
+        highlightNodes[0][0].__data__.clicked = false;
+
+      })
+
+      // don't know what this code is for
+      if (graph_type == "users-users"){
+        var higlight = svg.selectAll("path").filter(function(d){
+          return d.target.name == a || d.source.name == a;
+        });
+      } else {
+        var higlight = svg.selectAll("line").filter(function(d){
+          return d.target.name == a || d.source.name == a;
+        });
+      }
+      higlight.style("opacity", 1); 
+
+    } 
+  }
+
+  function doubleclick () {
+
+    var a = d3.select(this).text();
+        // highlight appropriate links
+    if (graph_type=="users-users"){
+      higlight_links = svg.selectAll("path").filter(function(d){
+        return d.target.name == a || d.source.name == a
+      }).style("opacity", 0);
+    } else {
+      svg.selectAll("line").style("opacity", 1);
+      higlight_links = svg.selectAll("line").filter(function(d){
+          return d.target.name == a || d.source.name == a
+        }).style("opacity", 0);
+    }
+    test = svg.selectAll("line");
+    console.log(test)
+    console.log(higlight_links)
+    console.log(test-higlight_links)
+
+  }
+}
+
+function generate_bar_graph (jsonData, divClass) {
+
+  var total = jsonData.length
+  // console.log(total)
+  barHeight = 10;
+
+  var margin = {top: 20, right: 20, bottom: 30, left: 115},
+    width = 250 - margin.left - margin.right,
+    height = 3000 - margin.top - margin.bottom;
+
+  var height = barHeight*total;
+
+  var x = d3.scale.log()
+      .range([2,width]);
+
+  var xAxis = d3.svg.axis()
+      .scale(x)
+      .tickFormat(function(d){
+        return x.tickFormat(3,d3.format(",d"))(d)
+      })
+      .orient("top");
+      // .ticks(3, "s");
+  xAxis.scale(x).tickFormat(function (d) {
+        return x.tickFormat(1,d3.format("s"))(d)
+})
+
+  var svg = d3.select(divClass).append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+
+  xMin = d3.min(jsonData, function(d) {
+           if (d.followers){
+              return d.followers;
+            }else {return d.total; }
+          });
+  xMax = d3.max(jsonData, function(d) {
+           if (d.followers){
+              return d.followers;
+            }else {return d.total; }
+          });
+
+  x.domain([xMin, xMax]);
+
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+      .call(xAxis);
+        // .tickFormat(d3.format("s")));
+        // .ticks(1,1));
+        // .tickSize(6,0));
+
+  svg.selectAll(".bar")
+      .data(jsonData)
+    .enter().append("rect")
+      .attr("class", "bar")
+      .attr("name", function(d) { return d._id;})
+      .attr("y", function(d,i) { return + margin.top + 5 + i*barHeight;})
+      .attr("height", barHeight-5)
+      .attr("x", margin.left )
+      .attr("width", function(d) { 
+       if (d.followers){
+          return x(d.followers);
+        }else {return x(d.total); }})
+      .on("mouseover", mouseoverbar)
+      .on("mouseout", mouseoutbar)
+      .on("click",clickbar);
+
+  svg.selectAll(".text")
+      .data(jsonData)
+      .enter().append("text")
+      .attr("class", "text")
+      .attr("y", function(d,i) { return + margin.top + 2.5 + i*barHeight;})
+      .attr("x", margin.left -10)
+      .attr("dy", ".75em")
+      .text(function(d){ if (d.name) { return truncate(d.name);} else { return truncate(d._id);} })
+      .attr("text-anchor", "end")
+      .on("mouseover", mouseoverbar)
+      .on("mouseout", mouseoutbar);
+
+  function truncate(string){
+    string = string.replace("www.", "");
+   if (string.length > 15){
+      return string.substring(0,15)+'...';
+   }else{
+      return string;}
+  };
+
+  function mouseoverbar() {
+    graph_type = document.getElementById("selectPlotTop").value;
+
+    var a = d3.select(this)[0][0].__data__;
+    d3.select(this).style("fill", "#ee9755")
+    // console.log(a);
+
+    var svg_graph = d3.selectAll("#graph").selectAll("svg");
+    if (!clicked){
+      if (graph_type == "users-users") {
+        svg_graph.selectAll("path").style("opacity", 0.05);
+      } else {
+        svg_graph.selectAll("line").style("opacity", 0.05);
+      }
+    }
+
+    // highlight node in graph
+    var text = svg_graph.selectAll(".node").select("text").filter(function(d) {
+      if (a.name) { return d.name == a.name; } else { return d.name == a._id; }})
+      //.transition()
+      //.duration(750)
+      .style("font-weight", "bold");
+    // console.log(text)
+
+    // highlight corresponding links in graph
+    if (graph_type == "users-users") {
+      higlight_links = svg_graph.selectAll("path").filter(function(d) {
+        if (a.name) { 
+          return d.target.name == a.name || d.source.name == a.name 
+        } else { return d.target.name == a._id || d.source.name == a._id }
+      }).style("opacity", 1);
+    } else {
+      higlight_links = svg_graph.selectAll("line").filter(function(d) {
+        if (a.name) { 
+          return d.target.name == a.name || d.source.name == a.name 
+        } else { return d.target.name == a._id || d.source.name == a._id }
+      }).style("opacity", 1);
+    }
+
+    // console.log(higlight_links)
+    higlight_links[0].forEach( function (line) {
+      s = line.__data__.source.name;
+      t = line.__data__.target.name;
+      var nameToHighlight;
+
+      if (s == a.name) { nameToHighlight = t; } else { nameToHighlight = s;}
+      // console.log(a)
+      // console.log(s)
+      // console.log(t)
+       // console.log(nameToHighlight)
+      highlightNode = svg_graph.selectAll(".node").select("g").select("text").filter( function(d) { 
+        return d.name == nameToHighlight})
+        //.transition()
+        //.duration(750)
+        .style("font-weight", "bold");
+      // console.log(highlightNode)
+
+      // highlight all bars in barchart
+      otherBar = d3.selectAll(".chart_area").select("svg").selectAll(".bar").filter(function(d) {
+        if (d.name) { return d.name == nameToHighlight } else { return d._id == nameToHighlight } })
+        .style("fill", "#ee9755")
+
+      })
+
+    // update the tooltip value
+    f = d3.format(",")
+    d3.select("#tooltipBar")
+      .select("#name")
+      .text(function() {if (a.name) { return a.name; } else { return a._id; }});
+
+    d3.select("#tooltipBar")
+      .select("#value")
+      .text(function() {if (a.name) { return "Followers: " + f(a.followers) + "  Tweets: " + f(a.tweets) + "  Friends: " + f(a.friends); } 
+        else { return "Total: " +a.total; }});
+
+    d3.select("#tooltipBar").classed("hidden", false);
+  }
+
+  function mouseoutbar() {
+    graph_type = document.getElementById("selectPlotTop").value;
+    var a = d3.select(this)[0][0].__data__;
+    var svg_graph = d3.selectAll("#graph").selectAll("svg");
+    svg_graph_nodes = svg_graph.select("g");
+    highlightNode = svg_graph_nodes.selectAll(".node").filter(function(d) { 
+      if (a.name) { return d.name == a.name } else { return d.name == a._id;}})
+
+    // return to default if nothing was clicked
+    if (!clicked) {
+      svg_graph.selectAll("line").style("opacity", 1);
+      svg_graph.selectAll("path").style("opacity", 1);
+    }
+
+    // if data does not exist in current graph, unhighlight bar
+    if (highlightNode[0].length == 0) {
+      d3.select(this).style("fill", "#55ACEE")
+
+    // if bar was not clicked, unhighlight links
+    } else if (!highlightNode[0][0].__data__.clicked ) {
+      // unhighlight bar
+      d3.select(this).style("fill", "#55ACEE")
+
+      // unhightlight node
+      svg_graph.selectAll(".node").select("g").select("text").filter( function(d) { 
+          if (a.name) { return d.name == a.name; } else { return d.name == a._id; }})
+          //.transition()
+          //.duration(750)
+          .style("font-weight", "normal");
+
+      // find all links, lower opacity
+      if (graph_type == "users-users") {
+        higlight_links = svg_graph.selectAll("path").filter(function(d) {
+            return d.target.name == a.name || d.source.name == a.name 
+        }).style("opacity", .05);
+      } else {
+        higlight_links = svg_graph.selectAll("line").filter(function(d) {
+          if (a.name) { 
+            return d.target.name == a.name || d.source.name == a.name 
+          } else { return d.target.name == a._id || d.source.name == a._id }
+        }).style("opacity", .05);
+      }
+
+      // find all other nodes, and shrink text
+      higlight_links[0].forEach( function (line) {
+        s = line.__data__.source.name;
+        t = line.__data__.target.name;
+        var nameToHighlight;
+        if (s == a.name) { nameToHighlight = t; } else { nameToHighlight = s;}
+
+        highlightNode = svg_graph.selectAll(".node").select("g").select("text").filter( function(d) { 
+          return d.name == nameToHighlight})
+          //.transition()
+          //.duration(750)
+          .style("font-weight", "normal");
+
+        // highlight all bars in barchart
+        otherBar = d3.selectAll(".chart_area").select("svg").selectAll(".bar").filter(function(d) {
+          if (d.name) { return d.name == nameToHighlight } else { return d._id == nameToHighlight } })
+          .style("fill", "#55ACEE")
+
+      })
+    }
+
+    // if no nodes are clicked return to default graph
+    clickedNodes = svg_graph_nodes.selectAll(".node").select("g")[0].filter(function(d) {
+      return d.__data__.clicked == true;
+    })
+    if (clickedNodes.length == 0) {
+      svg_graph.selectAll("path").style("opacity", 1);
+      svg_graph.selectAll("line").style("opacity", 1);
+      clicked = false;
+    }
+
+  }
+
+  function clickbar() {
+    var a = d3.select(this)[0][0].__data__;
+    d3.select(this).style("fill", "#ee9755")
+
+    // if chart or bar has already been clicked, highlight link in graph
+    var svg_graph = d3.selectAll("#graph").selectAll("svg").select("g");
+
+    // set click value of node
+    highlightNode = svg_graph.selectAll(".node").filter(function(d) { 
+      if (a.name) { return d.name == a.name} else { return d.name == a._id;}})
+
+    // if data does not exist in current graph do nothing
+    if (highlightNode[0].length == 0) {
+        // do nothing
+    // if bar was not clicked, unhighlight links
+    } else if (!highlightNode[0][0].__data__.clicked) {
+      highlightNode[0][0].__data__.clicked = true
+      clicked = true;
+    } else {
+      highlightNode[0][0].__data__.clicked = false;      
+    }
+  
+  }
+
+ }
+
+function order(){
+  console.log(document.getElementById("order_button_top").value);
+  console.log(document.getElementById("order_button_bottom").value);
+  users_array=all_users;
+  hashtags_array=all_hashtags;
+  domains_array=all_domains;
+  //Order top bar
+  if(document.getElementById("selectPlotTop").value=="users-users"){
+    var users_order_type=document.getElementById("order_button_top").value;
+    var cf_nodes = crossfilter(users_array);
+    if(users_order_type=="count"){
+      i=0;
+      var test =[];
+      for(var key in nodes){
+        test[i]=nodes[key];
+        i++;
+      }
+      var cf_nodes = crossfilter(test);
+      nodes_byCount = cf_nodes.dimension(function(p) { if(p.type=="user" ) return p.count; });
+      ordering=true;
+    }else if(users_order_type=="link_count"){
+      ordering=false;
+    }else{
+      ordering=true;
+      nodes_byCount = cf_nodes.dimension(function(p) { 
+        if(users_order_type=="followers"){
+          return p.followers;
+        }else if(users_order_type=="friends"){
+          return p.friends;
+        }else if(users_order_type=="tweets"){
+          return p.tweets;
+        }else if(users_order_type=="alphabetically"){
+          return p.name;
+        }  
+      });
+    }
+    //nodes_byCount.filter([20,30]);
+    if(users_order_type=="alphabetically"){
+      higlight = nodes_byCount.bottom(Infinity);
+    } else if(ordering==false){
+      higlight=[];
+    }else{
+      higlight = nodes_byCount.top(Infinity);
+    }
+    users_array=higlight;
+    generatevis(document.getElementById("selectPlotTop").value);
+
+
+
+
+
+    /*
+    var cf_nodes = crossfilter(users_array);
+    nodes_byCount = cf_nodes.dimension(function(p) { return p.friends; });
+    var higlight = nodes_byCount.top(Infinity);
+    users_array=higlight;
+    //console.log(users_array);
+    //console.log(higlight);
+    ordering=true;
+    generatevis(document.getElementById("selectPlotTop").value);
+    */
+  }else if(document.getElementById("selectPlotTop").value=="users-hashtags"){
+    var users_order_type=document.getElementById("order_button_top").value;
+    var hashtags_order_type=document.getElementById("order_button_bottom").value;
+    var cf_nodes = crossfilter(users_array);
+    if(users_order_type=="count"){
+      i=0;
+      var test =[];
+      for(var key in nodes){
+        test[i]=nodes[key];
+        i++;
+      }
+      var cf_nodes = crossfilter(test);
+      nodes_byCount = cf_nodes.dimension(function(p) { if(p.type=="user" ) return p.count; });
+      ordering=true;
+    }else if(users_order_type=="link_count"){
+      ordering=false;
+    }else{
+      ordering=true;
+      nodes_byCount = cf_nodes.dimension(function(p) { 
+        if(users_order_type=="followers"){
+          return p.followers;
+        }else if(users_order_type=="friends"){
+          return p.friends;
+        }else if(users_order_type=="tweets"){
+          return p.tweets;
+        }else if(users_order_type=="alphabetically"){
+          return p.name;
+        }  
+      });
+    }
+    //nodes_byCount.filter([20,30]);
+    if(users_order_type=="alphabetically"){
+      higlight = nodes_byCount.bottom(Infinity);
+    } else if(ordering==false){
+      higlight=[];
+    }else{
+      higlight = nodes_byCount.top(Infinity);
+    }
+    users_array=higlight;
+
+    //Order bottom bar
+    cf_nodes = crossfilter(hashtags_array);
+    if(hashtags_order_type=="count"){
+      i=0;
+      var test =[];
+      for(var key in nodes){
+        test[i]=nodes[key];
+        i++;
+      }
+      var cf_nodes = crossfilter(test);
+      nodes_byCount = cf_nodes.dimension(function(p) { if(p.type=="hashtag" ) return p.count; });
+      ordering=true;
+    }else if(hashtags_order_type=="link_count"){
+      ordering=false;
+    }else{
+      ordering=true;
+      nodes_byCount = cf_nodes.dimension(function(p) { 
+        if(hashtags_order_type=="alphabetically"){
+          return p._id;
+        }  
+      });
+    }
+    //nodes_byCount.filter([20,30]);
+    if(hashtags_order_type=="alphabetically"){
+      higlight = nodes_byCount.bottom(Infinity);
+    }else if(ordering==false){
+      higlight=[];
+    }else{
+      higlight = nodes_byCount.top(Infinity);
+    }
+    hashtags_array=higlight;
+
+    console.log(users_array);
+    console.log(hashtags_array);
+
+    generatevis(document.getElementById("selectPlotTop").value);
+  }else if(document.getElementById("selectPlotTop").value=="users-domains"){
+    var users_order_type=document.getElementById("order_button_top").value;
+    var domains_order_type=document.getElementById("order_button_bottom").value;
+    var cf_nodes = crossfilter(users_array);
+    if(users_order_type=="count"){
+      i=0;
+      var test =[];
+      for(var key in nodes){
+        test[i]=nodes[key];
+        i++;
+      }
+      var cf_nodes = crossfilter(test);
+      nodes_byCount = cf_nodes.dimension(function(p) { if(p.type=="user" ) return p.count; });
+      ordering=true;
+    }else if(users_order_type=="link_count"){
+      ordering=false;
+    }else{
+      ordering=true;
+      nodes_byCount = cf_nodes.dimension(function(p) { 
+        if(users_order_type=="followers"){
+          return p.followers;
+        }else if(users_order_type=="friends"){
+          return p.friends;
+        }else if(users_order_type=="tweets"){
+          return p.tweets;
+        }else if(users_order_type=="alphabetically"){
+          return p.name;
+        }  
+      });
+    }
+    //nodes_byCount.filter([20,30]);
+    if(users_order_type=="alphabetically"){
+      higlight = nodes_byCount.bottom(Infinity);
+    } else if(ordering==false){
+      higlight=[];
+    }else{
+      higlight = nodes_byCount.top(Infinity);
+    }
+    users_array=higlight;
+
+    console.log(domains_array);
+    //Order bottom bar
+    cf_nodes = crossfilter(domains_array);
+    if(domains_order_type=="count"){
+      i=0;
+      var test =[];
+      for(var key in nodes){
+        test[i]=nodes[key];
+        i++;
+      }
+      var cf_nodes = crossfilter(test);
+      nodes_byCount = cf_nodes.dimension(function(p) { if(p.type=="domain" ) return p.count; });
+      ordering=true;
+    }else if(domains_order_type=="link_count"){
+      ordering=false;
+    }else{
+      ordering=true;
+      nodes_byCount = cf_nodes.dimension(function(p) { 
+        if(domains_order_type=="alphabetically"){
+          return p._id;
+        }  
+      });
+    }
+    //nodes_byCount.filter([20,30]);
+    if(domains_order_type=="alphabetically"){
+      higlight = nodes_byCount.bottom(Infinity);
+    }else if(ordering==false){
+      higlight=[];
+    }else{
+      higlight = nodes_byCount.top(Infinity);
+    }
+    domains_array=higlight;
+
+    //console.log(users_array);
+    console.log(domains_array);
+
+    generatevis(document.getElementById("selectPlotTop").value);
+  }else if(document.getElementById("selectPlotTop").value=="domains-hashtags"){
+    var domains_order_type=document.getElementById("order_button_top").value;
+    var hashtags_order_type=document.getElementById("order_button_bottom").value;
+    var cf_nodes = crossfilter(domains_array);
+    if(domains_order_type=="count"){
+      i=0;
+      var test =[];
+      for(var key in nodes){
+        test[i]=nodes[key];
+        i++;
+      }
+      var cf_nodes = crossfilter(test);
+      nodes_byCount = cf_nodes.dimension(function(p) { if(p.type=="domain" ) return p.count; });
+      ordering=true;
+    }else if(domains_order_type=="link_count"){
+      ordering=false;
+    }else{
+      ordering=true;
+      nodes_byCount = cf_nodes.dimension(function(p) { 
+        if(domains_order_type=="alphabetically"){
+          return p._id;
+        }  
+      });
+    }
+    //nodes_byCount.filter([20,30]);
+    if(domains_order_type=="alphabetically"){
+      higlight = nodes_byCount.bottom(Infinity);
+    } else if(ordering==false){
+      higlight=[];
+    }else{
+      higlight = nodes_byCount.top(Infinity);
+    }
+    domains_array=higlight;
+    //Order bottom bar
+    cf_nodes = crossfilter(hashtags_array);
+    if(hashtags_order_type=="count"){
+      i=0;
+      var test =[];
+      for(var key in nodes){
+        test[i]=nodes[key];
+        i++;
+      }
+      var cf_nodes = crossfilter(test);
+      nodes_byCount = cf_nodes.dimension(function(p) { if(p.type=="hashtag" ) return p.count; });
+      ordering=true;
+    }else if(hashtags_order_type=="link_count"){
+      ordering=false;
+    }else{
+      ordering=true;
+      nodes_byCount = cf_nodes.dimension(function(p) { 
+        if(hashtags_order_type=="alphabetically"){
+          return p._id;
+        }  
+      });
+    }
+    //nodes_byCount.filter([20,30]);
+    if(hashtags_order_type=="alphabetically"){
+      higlight = nodes_byCount.bottom(Infinity);
+    }else if(ordering==false){
+      higlight=[];
+    }else{
+      higlight = nodes_byCount.top(Infinity);
+    }
+    hashtags_array=higlight;
+
+    //console.log(users_array);
+    console.log(hashtags_array);
+
+    generatevis(document.getElementById("selectPlotTop").value);
+  }
+
+}
+
+function reset(){
+
+  // return to default styles
+  clicked = false;
+  d3.select("#graph").selectAll("text")
+      //.transition()
+      //.duration(750)
+      .style("font-weight", "normal");
+
+  d3.select("#graph").selectAll("line")
+      .style("opacity", 1);
+
+  d3.select("#graph").selectAll("path")
+      .style("opacity", 1);
+
+  d3.selectAll(".chart_area").select("svg").selectAll(".bar")
+      .style("fill", "#55ACEE");
+}
+
+function zoom() {
+  if(!zoomed){
+    svg.attr("transform",
+      "translate(0,50)"
+      + " scale(" + 1250/width_graph + ")");
+    zoomed=true;
+    var graph_div =document.getElementById("graph");
+    graph_div.style.overflow="visible";
+    graph_div.style.height="270px"
+    document.getElementById("zoom_button").value="Zoom in";
+  }else{
+    zoomed=false;
+    document.getElementById("zoom_button").value="Zoom out";
+    var graph_div =document.getElementById("graph");
+    graph_div.style.overflow="scroll";
+    graph_div.style.height="400px";
+    generatevis(document.getElementById("selectPlotTop").value);
+  } 
+}
+
+function brushed() {
+  var s = d3.event.target.extent();
+  // console.log("s",s[1]-s[0]);
+  if(width_graph!=0){
+    // console.log(width_graph)
+    slider_width=xbrush(1250);    
+  }
+  if(s[1]-s[0] == slider_width){
+    if (!d3.event.sourceEvent) return; // only transition after input
+    var slider_range = brush_overview.extent();
+    // console.log("slider_range=",slider_range);
+    // console.log("width_graph=",width_graph)
+    //var scale = (1270/width_graph)*(964/(slider_range[1]-slider_range[0]));
+    svg.attr("transform",
+        "translate("+(-slider_range[0])+",0)");
+        //+ " scale(" + scale + ")");
+    //console.log(scale);
+  }else{
+    d3.event.target.extent([Math.round(s[0]),Math.round(s[0]+slider_width)]); 
+    d3.event.target(d3.select(this));
+    brushed();
+  }
+}
+
+function drawKey() {
+  d3.select("#colorKey").select('svg').remove();
+  colors = ["user", "hashtag", "domain"];
+  rectHeight = 15;
+  rectWidth = 10;
+  margin = {left: 10};
+  //var counter = 0; 
+
+  var svg = d3.select("#colorKey").append("svg")
+            .attr("width", 40)
+            .attr("height", rectHeight*4)
+            .append("g");
+              
+  keyTerms = ["1-2", "3-10", "11-30", ">30"];  //**********change this
+  // 25, 8, 3, 1
+  svg.selectAll("text")
+      .data(keyTerms)
+    .enter().append("text")
+      .attr("y", function(d,i) { return i*rectHeight+2;})
+      .attr("x", 30)
+      .attr("dy", ".75em")
+      .text(function(d){ return d; })
+      .attr("text-anchor", "end")
+      .attr("font-size", "10px")
+
+  colors.forEach(function (entity) {
+    var svg = d3.select("#colorKey").append("svg")
+              .attr("class", "colorColumn")
+              .attr("width", rectWidth*1.5)
+              .attr("height", rectHeight*4)
+              .append("g");
+
+    var intensities = colorScale[entity];//.reverse();
+
+    svg.selectAll("rect")
+      .data(intensities)
+    .enter().append("rect")
+      .attr("y", function(d,i) { return i*rectHeight; })
+      .attr("x", 0)
+      .attr("height", rectHeight)
+      .attr("width", rectWidth)
+      .attr("fill", function(d,i) { return d; }); 
+    //counter++;
+  })
+
+  var color_text = d3.select("#colorKey").append("svg").attr("height", 40).append("g");
+  colors.forEach(function (d,i) {
+    color_text.append("text")
+      .text(d)
+      .attr("x", 33+rectWidth*i)
+      .attr("y",-32-i*rectWidth)
+      .attr("dy", ".75em")
+      .attr("text-anchor", "bottom")
+      .attr("font-size", "10px")
+      .attr("transform","rotate(45)")
+  })
+
+/*  entities = [ "user", "hashtag", "domain"];
+  counter1 = 0;
+  entities.forEach(function(entity){
+    var svg = d3.select("#colorKey").append("svg")
+          // .attr("class", "")
+          .attr("text-anchor", "bottom")
+          .attr("width", rectWidth*1.5)
+          .attr("height", rectHeight*4)
+          .append("g");
+      var intensities = colorScale[entity];//.reverse();
+
+    svg.selectAll("text")
+      .data(entity)
+    .enter().append("text")
+      .attr("y", rectWidth*counter)
+      .attr("x", 0)
+      .attr("height", rectHeight)
+      .attr("width", rectWidth)
+      .text(d)
+      // .attr("fill", function(d,i) { return d; });
+    counter1++
+  })*/
+
+  var svg = d3.select("#linkKey").append("svg")
+    .attr("width", 100)
+    .attr("height", rectHeight*5)
+    .append("g");
+
+  // keyTerms = [">30", "", "", "15", "" , "", "1"];
+  keyTerms = ["1", "", "", "15", "" , "", ">30"];
+
+  strokeWidths = [ 4, 3, 2, 1, 0.5];
+  strokeWidths = [ 0.5, 1, 2, 3, 4];
+
+  svg.selectAll("text")
+      .data(keyTerms)
+    .enter().append("text")
+      .attr("y", function(d,i) { return i*(rectHeight/2);})
+      .attr("x", 30)
+      .attr("dy", "1em")
+      .text(function(d){ return d; })
+      .attr("text-anchor", "end")
+      .attr("font-size", "10px")
+
+  svg.selectAll("rect")
+      .data(strokeWidths)
+    .enter().append("rect")
+      .attr("y", function(d,i) { return i*(rectHeight/1.3) +4; })
+      .attr("x", margin.left+30)
+      .attr("height", function(d) { return d; })
+      .attr("width", rectWidth*4)
+      .attr("fill", "#303030");
+
+};
+drawKey();
+
+</script>
+
+<!-- Brush script -->
+<script type="text/javascript">
+var margin = {top: 2, right: 20, bottom: 2, left: 20},
+    width = 150 - margin.left - margin.right,
+    height = 40 - margin.bottom - margin.top;
+
+var x = d3.scale.linear()
+    .domain([0, 50])
+    .range([0, width])
+    .clamp(true);
+
+var brush = d3.svg.brush()
+    .x(x)
+    .extent([0, 50])
+    .on("brush", brushended);
+
+var svg = d3.select("#rangeSlider").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height-5)// + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + ",0)");
+
+svg.append("g")
+    .attr("class", "slider axis")
+    .attr("transform", "translate(0," + height / 4 + ")")
+    .call(d3.svg.axis()
+      .scale(x)
+      .orient("bottom")
+      .ticks(4)
+      .tickFormat(function(d) { return d; })
+      .tickSize(0)
+      .tickPadding(9))
+  .select(".domain")
+  .select(function() { return this.parentNode.appendChild(this.cloneNode(true)); })
+    .attr("class", "halo");
+
+// svg.append("text")
+//   .attr("class", "x label")
+//   .attr("x", 0)
+//   .attr("y", height-35)
+//   .text("testing")
+
+var gBrush = svg.append("g")
+    .attr("class", "brush")
+    .call(brush)
+    .call(brush.event);
+
+gBrush.selectAll("rect")
+    .attr("height", height/4)
+    .attr("transform", "translate(0," + height/8 + ")");
+
+// var handleLeft = brush.append("circle")
+//   .attr("class", "handle")
+//   .attr("transform", "translate(0," + height/8 + ")")
+//   .attr("r", 5);
+// var handleLeft = brush.append("circle")
+//   .attr("class", "handle")
+//   .attr("transform", "translate(50," + height/8 + ")")
+//   .attr("r", 5);
+
+prev_start=0;
+prev_end=50;
+
+function brushended() {
+  if (!d3.event.sourceEvent) return; // only transition after input
+  
+  var slider_range = brush.extent()
+
+ /* d3.select(this).transition()
+    .call(brush.extent(brush.extent()))
+    .call(brush.event);*/
+
+  
+  // handle.attr("cx", x(value));
+  // d3.select("body").style("background-color", d3.hsl(value, .8, .8));
+
+  links_byCount.filter([slider_range[0],slider_range[1]]);
+  var higlight = links_byCount.top(Infinity); 
+  links=higlight;
+  generatevis(document.getElementById("selectPlotTop").value);   
+  
+}
+
+</script>

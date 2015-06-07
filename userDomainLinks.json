@@ -1,0 +1,6330 @@
+[
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "twitter.com",
+		"target_type" : "domain",
+		"count" : 43
+	},
+	{
+		"source" : "CajaDeMensajes",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 21
+	},
+	{
+		"source" : "A_Metropolitana",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 20
+	},
+	{
+		"source" : "ohsanra",
+		"source_type" : "user",
+		"target" : "www.ohchr.org",
+		"target_type" : "domain",
+		"count" : 19
+	},
+	{
+		"source" : "ciudadaniactiva",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 16
+	},
+	{
+		"source" : "TuVidaEnPhrases",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 16
+	},
+	{
+		"source" : "AmnestyOnline",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 12
+	},
+	{
+		"source" : "FreedomFOA",
+		"source_type" : "user",
+		"target" : "freedomfightersofamerica.blogspot.com",
+		"target_type" : "domain",
+		"count" : 11
+	},
+	{
+		"source" : "mintel2011",
+		"source_type" : "user",
+		"target" : "www.hrcchina.org",
+		"target_type" : "domain",
+		"count" : 11
+	},
+	{
+		"source" : "DebesReconocerQ",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 10
+	},
+	{
+		"source" : "Mefollosonrisas",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 10
+	},
+	{
+		"source" : "mikalinc",
+		"source_type" : "user",
+		"target" : "www.ohchr.org",
+		"target_type" : "domain",
+		"count" : 9
+	},
+	{
+		"source" : "TeLoCambioPor",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 9
+	},
+	{
+		"source" : "AlqassamBrigade",
+		"source_type" : "user",
+		"target" : "www.qassam.ps",
+		"target_type" : "domain",
+		"count" : 8
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "english.ahram.org.eg",
+		"target_type" : "domain",
+		"count" : 8
+	},
+	{
+		"source" : "PoetaCalle",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 8
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "www.ohchr.org",
+		"target_type" : "domain",
+		"count" : 8
+	},
+	{
+		"source" : "TPO_Hisself",
+		"source_type" : "user",
+		"target" : "p.ost.im",
+		"target_type" : "domain",
+		"count" : 8
+	},
+	{
+		"source" : "infonaija",
+		"source_type" : "user",
+		"target" : "www.informationng.com",
+		"target_type" : "domain",
+		"count" : 7
+	},
+	{
+		"source" : "TatianaLaurens",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 7
+	},
+	{
+		"source" : "GABYLONIA",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 6
+	},
+	{
+		"source" : "zonaEntel",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 6
+	},
+	{
+		"source" : "sanpascualitor",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 6
+	},
+	{
+		"source" : "iran_policy",
+		"source_type" : "user",
+		"target" : "www.ncr-iran.org",
+		"target_type" : "domain",
+		"count" : 6
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "news.yahoo.com",
+		"target_type" : "domain",
+		"count" : 6
+	},
+	{
+		"source" : "vegetta777",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 6
+	},
+	{
+		"source" : "ADNPolitico",
+		"source_type" : "user",
+		"target" : "www.adnpolitico.com",
+		"target_type" : "domain",
+		"count" : 6
+	},
+	{
+		"source" : "SENSATO",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 6
+	},
+	{
+		"source" : "PRI_Nacional",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 5
+	},
+	{
+		"source" : "mintel2011",
+		"source_type" : "user",
+		"target" : "www.ohchr.org",
+		"target_type" : "domain",
+		"count" : 5
+	},
+	{
+		"source" : "iran_policy",
+		"source_type" : "user",
+		"target" : "linkis.com",
+		"target_type" : "domain",
+		"count" : 5
+	},
+	{
+		"source" : "coach_amor",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 5
+	},
+	{
+		"source" : "Currice",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 5
+	},
+	{
+		"source" : "jonhutson",
+		"source_type" : "user",
+		"target" : "paper.li",
+		"target_type" : "domain",
+		"count" : 5
+	},
+	{
+		"source" : "keet0007",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 5
+	},
+	{
+		"source" : "977_fm",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 5
+	},
+	{
+		"source" : "luisbremer",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 5
+	},
+	{
+		"source" : "antua_87",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 5
+	},
+	{
+		"source" : "ahramonline",
+		"source_type" : "user",
+		"target" : "english.ahram.org.eg",
+		"target_type" : "domain",
+		"count" : 5
+	},
+	{
+		"source" : "elimin8prejudic",
+		"source_type" : "user",
+		"target" : "www.un.org",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "Ciencia_UNAM",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "UN_News_Centre",
+		"source_type" : "user",
+		"target" : "www.un.org",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "duxativa",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "SENSATO",
+		"source_type" : "user",
+		"target" : "ec-media.soundcloud.com",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "ElTeamBelieber",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "fpt_argentina",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.telegraph.co.uk",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "maytetuguia",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "PacoArrojoLaVoz",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "SABCNewsOnline",
+		"source_type" : "user",
+		"target" : "www.sabc.co.za",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "LogicaDeMujeres",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "multimediostv",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "NABEELRAJAB",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "LAHT",
+		"source_type" : "user",
+		"target" : "www.laht.com",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "Barksdale666",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "ACBCOM",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "www.policymic.com",
+		"target_type" : "domain",
+		"count" : 4
+	},
+	{
+		"source" : "DailyMirror",
+		"source_type" : "user",
+		"target" : "www.mirror.co.uk",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "MayoristaRecio_",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "Hechos_1DBTR",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "AnonsVenezuela",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "CrwdFndPlanning",
+		"source_type" : "user",
+		"target" : "www.promotemycrowdfunding.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "minsaurralde",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "PutasIlusiones",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "MintrabajoCol",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "Razarumi",
+		"source_type" : "user",
+		"target" : "www.thefridaytimes.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "valentisanjuan",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "la_tuerka",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "ixpanea",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "diegoscharifker",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "ICD_Egypt",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "ICD_Egypt",
+		"source_type" : "user",
+		"target" : "english.ahram.org.eg",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "CodelcoChile",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "anat5",
+		"source_type" : "user",
+		"target" : "www.change.org",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.scoop.co.nz",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "guerreromario",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "anjelikaakbar",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "coe",
+		"source_type" : "user",
+		"target" : "www.humanrightseurope.org",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "FraseSimple",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "PamelaDAnderson",
+		"source_type" : "user",
+		"target" : "www.amnestyusa.org",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "GMANewsOnline",
+		"source_type" : "user",
+		"target" : "www.gmanetwork.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "napoleonbravo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "Mefollomiradas",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "natybotero",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "emeequis",
+		"source_type" : "user",
+		"target" : "www.m-x.com.mx",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "Luis_Delia",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "TipsFutbol",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "www.humanrightsfirst.org",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 3
+	},
+	{
+		"source" : "reformanacional",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "LibertyMario",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "DebRyanShow",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "barcelona_cat",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "USRealityCheck",
+		"source_type" : "user",
+		"target" : "www.upi.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "politicosmex",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "tamaraprimus",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "Seb_Frit",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "tm_insider",
+		"source_type" : "user",
+		"target" : "www.themalaysianinsider.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "PepsiMEX",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "GlobalFundWomen",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "subversivos_",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "geysar",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "AUDITORIOTELMEX",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "MENDEZMARY55",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "LocusDuoKie",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "globalvoices",
+		"source_type" : "user",
+		"target" : "globalvoicesonline.org",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "FranCerezo96",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "atilo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "PaisaVlogs",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "FILGuadalajara",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "follaamigas3",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "AtodoOnada_Mega",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "fenomenoide",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "HuffPostCanada",
+		"source_type" : "user",
+		"target" : "www.parentdish.ca",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "sargentorap1",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "IsraelNewsNow",
+		"source_type" : "user",
+		"target" : "www.jpost.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "SBSNews",
+		"source_type" : "user",
+		"target" : "www.sbs.com.au",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "BahrainRights",
+		"source_type" : "user",
+		"target" : "bahrainrights.hopto.org",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "marcadorec",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "marcadorec",
+		"source_type" : "user",
+		"target" : "www.eluniverso.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "canalfiesta",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "Gallo_20",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "Catolicos_VA",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "TelegraphWorld",
+		"source_type" : "user",
+		"target" : "www.telegraph.co.uk",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "ICD_Egypt",
+		"source_type" : "user",
+		"target" : "www.hrw.org",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "RafaBlas_",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "IgnacioBuiatti",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "AlexODogherty",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "kylunmedia",
+		"source_type" : "user",
+		"target" : "www.heraldstandard.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "dsmolansky",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "SharifFernandez",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "ngmagaldi",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "pinknews",
+		"source_type" : "user",
+		"target" : "www.pinknews.co.uk",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "JumboRD",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "M4rcosMiguel",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "oierfano",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "Waca30",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "festereopicnic",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "KillerCreeper55",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "dzapatillas",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.kcna.co.jp",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "feeds.abcnews.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "TELEVILEAKS",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "UnJovenSincero",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "exagdl",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "soyingridbeck",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "KamalFaridi",
+		"source_type" : "user",
+		"target" : "www.telegraph.co.uk",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "bedoonmedia",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "www.atlanticcouncil.org",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "trostrigo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "ASE",
+		"source_type" : "user",
+		"target" : "www.humanrightsfirst.org",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "Rumba975",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "Calle13Oficial",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "werevertumorro",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "amnesty",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "CaELiKe",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "NRJ12lachaine",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "_JoseValenzuela",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "robertosaviano",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "luisitorey",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "sergiocarlo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "witnessorg",
+		"source_type" : "user",
+		"target" : "www.humanrightsconcerts.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "TelegraphNews",
+		"source_type" : "user",
+		"target" : "www.telegraph.co.uk",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "globeandmail",
+		"source_type" : "user",
+		"target" : "www.theglobeandmail.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "dailynation",
+		"source_type" : "user",
+		"target" : "www.nation.co.ke",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "KARENBEJARANOTV",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "rapplerdotcom",
+		"source_type" : "user",
+		"target" : "www.rappler.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "hamletgarcia17",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "WBPictures_Mx",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "AmnestyOnline",
+		"source_type" : "user",
+		"target" : "livewire.amnesty.org",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "EvilAFM",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "Juanjaramilloe",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "webnotitarde",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "firstpostin",
+		"source_type" : "user",
+		"target" : "www.firstpost.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "JuanPedroTV",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "saloniksv",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "Juezcentral",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "eNCAnews",
+		"source_type" : "user",
+		"target" : "www.enca.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "miguelamunoz",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "RevolutionSyria",
+		"source_type" : "user",
+		"target" : "www.hrw.org",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "TariqRamadan",
+		"source_type" : "user",
+		"target" : "tariqramadan.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "1DfactsOMG",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "elchicodetwiter",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "CatolicosVA",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "haaretzcom",
+		"source_type" : "user",
+		"target" : "www.haaretz.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "NiallsNotes",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "Villarruel_clau",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "Villarruel_clau",
+		"source_type" : "user",
+		"target" : "www.lanacion.com.ar",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "uknewsdepot",
+		"source_type" : "user",
+		"target" : "adf.ly",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "breakingnews_90",
+		"source_type" : "user",
+		"target" : "www.miamiherald.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "breakingnews_90",
+		"source_type" : "user",
+		"target" : "www.haaretz.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "trafficMERIDA",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "jamsha_",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "TherealLarrymoe",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 2
+	},
+	{
+		"source" : "OfficialCritika",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "www.fidh.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "trafficPUERTO",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "onedirectionARG",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Mister_CeS",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ClauAlbertario",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "The_News_DIVA",
+		"source_type" : "user",
+		"target" : "www.upi.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MARACAYACTIVA",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "bullysteria",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "CarlosCheca7",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "AmnestyUK",
+		"source_type" : "user",
+		"target" : "www.bbc.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "maria_hb18",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Jhon_Mariani",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "infonaija",
+		"source_type" : "user",
+		"target" : "www.facebook.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "PFLAMM",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "allafrica",
+		"source_type" : "user",
+		"target" : "allafrica.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "joelsampayoc",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "CanalTR3CE",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "rafalitosarmi",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "IvanMattaF",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MBrotherhoodUK",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "trecet",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "vincentglad",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Trafico_ZMG",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "wikinoticias",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DavidSuzukiFDN",
+		"source_type" : "user",
+		"target" : "www.cbc.ca",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JULIOC_HERRERA",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ArkRenko",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JamaicaObserver",
+		"source_type" : "user",
+		"target" : "www.jamaicaobserver.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "alhanda",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "nzherald",
+		"source_type" : "user",
+		"target" : "www.nzherald.co.nz",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "sonarfm",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "___JosealbertTT",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TV5MONDE",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MyANC_",
+		"source_type" : "user",
+		"target" : "www.fhr.org.za",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "FrasesSabina_",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "USRealityCheck",
+		"source_type" : "user",
+		"target" : "www.kuna.net.kw",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "USRealityCheck",
+		"source_type" : "user",
+		"target" : "www.haaretz.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ABCNews24",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DebemosReir",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "QuieroClub",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MxApple",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "_GoofyGarcia",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "tnLaViola",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TatuajesLindos",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "FreddyMezaTv",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "truthout",
+		"source_type" : "user",
+		"target" : "truth-out.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Chuletita_Of",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "la_comer",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "LondonRealTV",
+		"source_type" : "user",
+		"target" : "www.londonreal.tv",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Chicopatan",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "mranti",
+		"source_type" : "user",
+		"target" : "www.theguardian.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "robertocarlomx",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SOYCRUDA",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "writerredux",
+		"source_type" : "user",
+		"target" : "www.fubiz.net",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "KrishnaAthal",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "IndomableAmor",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "analauraribas6",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "alegarciapintos",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MFQahtani",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "PoetaInusual",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MASQHUMOR",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "El_ExNovio_",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "simonsimonazzo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JoseDeRico",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "CombitoSoftware",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "LaEtxebarria",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "vamosmiverdecom",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Villanosam_",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "GlobalFundWomen",
+		"source_type" : "user",
+		"target" : "www.globalfundforwomen.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "somoslogan",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Ssirgany",
+		"source_type" : "user",
+		"target" : "english.ahram.org.eg",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SecretoDeUnAmor",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "RaholaOficial",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "profesorlupa",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "WaleedAbulkhair",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "PlanetaRealista",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JeanThomasJobin",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TrebolClan1",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SiendoBonitas",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "negraoficial",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "iHect0r_",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "AhmdAlish",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Jgomeznoya",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "VENENO_CRUZ",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "esquinabaja",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MadhaBhima",
+		"source_type" : "user",
+		"target" : "internacional.elpais.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "geysar",
+		"source_type" : "user",
+		"target" : "humanrightshouse.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "enrique_ganem",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "enrique_ganem",
+		"source_type" : "user",
+		"target" : "www.planetary.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "manu_tenorio1",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MadhaBhima",
+		"source_type" : "user",
+		"target" : "noticias.terra.com.mx",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "freddynberas",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "mintel2011",
+		"source_type" : "user",
+		"target" : "twitter.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JuanamartinezH",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "RusherProud",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Tiernotexto",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cinnamon_carter",
+		"source_type" : "user",
+		"target" : "www.thenational.ae",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "unionradionet",
+		"source_type" : "user",
+		"target" : "www1.unionradio.net",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "680News",
+		"source_type" : "user",
+		"target" : "www.680news.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "PadreJosedejesu",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ahmed",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DatoFilosofia",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Pablo_Iglesias_",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "livemint",
+		"source_type" : "user",
+		"target" : "www.livemint.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ambarmusical",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "RosanaFranco10",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "elkaiser63",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ninjatune",
+		"source_type" : "user",
+		"target" : "itunes.apple.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ninjatune",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "sharifkouddous",
+		"source_type" : "user",
+		"target" : "www.hrw.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "sdmattpotter",
+		"source_type" : "user",
+		"target" : "www.laht.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Nena_Guzman",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ProudOfShaastem",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JDavidMorris",
+		"source_type" : "user",
+		"target" : "www.indiegogo.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Alfalta90",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "31minutos_tv",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SanjuanaMtz",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "elyas360",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "palestine",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "palestine",
+		"source_type" : "user",
+		"target" : "www.imemc.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MiDiarioPanama",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "udsnoexisten",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "dailynewsen",
+		"source_type" : "user",
+		"target" : "dailynewsen.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ele_grimaldi",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DebemosSonreir",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "minamaya13",
+		"source_type" : "user",
+		"target" : "www.takepart.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "minamaya13",
+		"source_type" : "user",
+		"target" : "www.bbc.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Charlie_Hebdo_",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "iMusicaLatina",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "analuciatv",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MuratYetkin2",
+		"source_type" : "user",
+		"target" : "www.hurriyetdailynews.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DMForoUnivision",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "14FebRevolution",
+		"source_type" : "user",
+		"target" : "byshr.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ufukkarabulut",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "alexmedela",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "chikosdelmaiz",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Arief96Muhammad",
+		"source_type" : "user",
+		"target" : "www.islampos.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "LunarioMx",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SoIoParejas",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SamsungMobileFR",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SirenaTextual",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "LeckYougo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "juventudsin",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "IsraelNewsNow",
+		"source_type" : "user",
+		"target" : "www.timesofisrael.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "fdncenter",
+		"source_type" : "user",
+		"target" : "data.foundationcenter.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "janethinostroza",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "officialfraag",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Matar_Matar",
+		"source_type" : "user",
+		"target" : "www.freedomhouse.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Reem_Khalifa",
+		"source_type" : "user",
+		"target" : "www.policymic.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Reem_Khalifa",
+		"source_type" : "user",
+		"target" : "adf.ly",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Matar_Matar",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Bruceltoro",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Reem_Khalifa",
+		"source_type" : "user",
+		"target" : "www.fidh.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cbcradio",
+		"source_type" : "user",
+		"target" : "www.cbc.ca",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "OpTicESP",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "OPetinatti",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JamesJohnsonCHR",
+		"source_type" : "user",
+		"target" : "www.sbs.com.au",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "PanDeVzla",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JTAnews",
+		"source_type" : "user",
+		"target" : "www.jta.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "CuriosoMensaje",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Slowflute",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JamesJohnsonCHR",
+		"source_type" : "user",
+		"target" : "twitter.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "minimalhome",
+		"source_type" : "user",
+		"target" : "www.minimalhome.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "minimalhome",
+		"source_type" : "user",
+		"target" : "www.facebook.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "BahrainRights",
+		"source_type" : "user",
+		"target" : "www.bbc.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "BahrainRights",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "BahrainRights",
+		"source_type" : "user",
+		"target" : "bahrainrights.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "AmberLyon",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "lauhaim",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "joefrancis",
+		"source_type" : "user",
+		"target" : "forward.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JorgegLaVoz",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "tjholt",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cculturalamanda",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "FedericoGomezOk",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "colocolodetodos",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JulioCesarCanta",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MediCasos",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TabascoHOY",
+		"source_type" : "user",
+		"target" : "www.tabascohoy.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "GdnLaw",
+		"source_type" : "user",
+		"target" : "www.theguardian.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DeiGamer",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "WMakinaciones",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JimMacMillan",
+		"source_type" : "user",
+		"target" : "www.hrw.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JEREMSTAR",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "mouloudachour",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Glinner",
+		"source_type" : "user",
+		"target" : "en.necessaryandproportionate.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Ubisoft",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "gretawire",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "twpyazulgrana",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Independent",
+		"source_type" : "user",
+		"target" : "www.independent.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "tjcope",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "BBCr4today",
+		"source_type" : "user",
+		"target" : "www.bbc.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "onlygist",
+		"source_type" : "user",
+		"target" : "onlygist.blogspot.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "mediagazer",
+		"source_type" : "user",
+		"target" : "www.hrw.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "mediagazer",
+		"source_type" : "user",
+		"target" : "mediagazer.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TeresaArboleda",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Daniel_Jaguaru",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "escuchamiRADIO",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "VirginRadiofr",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "LA_PAH",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "GAMERSRetail",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "GobAntioquia",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Alex_candal",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "iCarlosFonseca",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "theprovince",
+		"source_type" : "user",
+		"target" : "www.theprovince.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "maxpradera",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "FeriaChiapasAC",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "jeremynrjcauet",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Actrices_Porno",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "paolobelliswing",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Retwiteadero",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "IsraelinUSA",
+		"source_type" : "user",
+		"target" : "www.washingtonpost.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "GGAcapulco",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Oficial1DMex",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JottaA_News",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Spi0n",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Outlookindia",
+		"source_type" : "user",
+		"target" : "news.outlookindia.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "rob_bieber",
+		"source_type" : "user",
+		"target" : "westcoastnativenews.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "historiadeboca",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TheCurrentCBC",
+		"source_type" : "user",
+		"target" : "www.cbc.ca",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "samuellaurent",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "RyanNewYork",
+		"source_type" : "user",
+		"target" : "www.nytimes.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Bahrani_Lion",
+		"source_type" : "user",
+		"target" : "www.humanrightsfirst.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "paraelespiritu",
+		"source_type" : "user",
+		"target" : "paraelespiritu.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "paraelespiritu",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "VW_es",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "CHPHalk",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "LaCiudadVerde",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MerlinaAcevedo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "AndroidMX",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DPSColombia",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "goldenmoustache",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MuratBozNews",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "elterribledios",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Daniwhiteg",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "liberal_party",
+		"source_type" : "user",
+		"target" : "www.liberal.ca",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "abbasbusafwan",
+		"source_type" : "user",
+		"target" : "instagram.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "zancada",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Fgarea",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SO_Sebastian",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ClouthierManuel",
+		"source_type" : "user",
+		"target" : "www.adnpolitico.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cromoex",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "alfredoduro1",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "BARTHECLINIC",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "www.haaretz.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "EurekaStartups",
+		"source_type" : "user",
+		"target" : "www.eureka-startups.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Andrea_Llosa",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "livewire.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "threatpost.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ICD_Egypt",
+		"source_type" : "user",
+		"target" : "www.theguardian.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "HaitiNewsNet",
+		"source_type" : "user",
+		"target" : "www.haitinews.net",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "HaitiNewsNet",
+		"source_type" : "user",
+		"target" : "www.miamiherald.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "eu_eeas",
+		"source_type" : "user",
+		"target" : "eeas.europa.eu",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "maclorena",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "tania_vargas",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "WestWoodEntt",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DaniBabb",
+		"source_type" : "user",
+		"target" : "www.dailystar.com.lb",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "KenRoth",
+		"source_type" : "user",
+		"target" : "www.theguardian.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "KenRoth",
+		"source_type" : "user",
+		"target" : "news.sky.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "KenRoth",
+		"source_type" : "user",
+		"target" : "www.independent.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "tonialba",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "KenRoth",
+		"source_type" : "user",
+		"target" : "www.washingtonpost.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "degewa",
+		"source_type" : "user",
+		"target" : "www.dossiertibet.it",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "degewa",
+		"source_type" : "user",
+		"target" : "ctmcateer.drupalgardens.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "angarafatihi",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SpokeDarkTV",
+		"source_type" : "user",
+		"target" : "www.bbc.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "brunoacme",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Naharnet",
+		"source_type" : "user",
+		"target" : "www.naharnet.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DelgadilloFer",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cumartesiannesi",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "gabymenta",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ScropRrc",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "YoumoiMusic",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "PrestaLucio",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "hombredeltiempo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "esthervargasc",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "coe",
+		"source_type" : "user",
+		"target" : "www.theguardian.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "35PAIS",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "capitanintriga",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "EL_MATADOR13",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ElSmosh",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "sufisal",
+		"source_type" : "user",
+		"target" : "focusforchange.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MiriamLanzoni",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "sufisal",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "el_autenticoo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "FuerzasMilCol",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DjHarsh_One",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SayNO_UNiTE",
+		"source_type" : "user",
+		"target" : "www.facebook.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Max_Fisher",
+		"source_type" : "user",
+		"target" : "www.washingtonpost.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.gainesville.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "article.wn.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.lusakatimes.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.sunstar.com.ph",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "timesofindia.indiatimes.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "domainnotfound.optimum.net",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.foxnews.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.denverpost.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "uk.news.yahoo.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "aliran.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.aljazeera.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.norwaypost.no",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.sify.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.thenewsherald.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "uk.finance.yahoo.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.nationmultimedia.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.mcclatchydc.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.malaya.com.ph",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "news.asiaone.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.mexidata.info",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.prweb.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.huffingtonpost.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.gmanetwork.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "globalnews.ca",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "mowlihawk",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TweetChistin",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ALALibrary",
+		"source_type" : "user",
+		"target" : "uil.unesco.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "netlawmedia",
+		"source_type" : "user",
+		"target" : "www.theguardian.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "elempleocom",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "mileyftbiebur",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "arrebatooficial",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "carlbonifatti",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "isaac",
+		"source_type" : "user",
+		"target" : "www.dossiertibet.it",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "roblesmaloof",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "etan_ash",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "StandUpVE",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "AsiaSociety",
+		"source_type" : "user",
+		"target" : "sites.asiasociety.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "margaritalai",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "leftfootfwd",
+		"source_type" : "user",
+		"target" : "www.leftfootforward.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "USUN",
+		"source_type" : "user",
+		"target" : "usun.state.gov",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DeenBurbigo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ParedesAp",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Salvador_Raya",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "RadioDiblu",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SergioyLupita",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ConversationEDU",
+		"source_type" : "user",
+		"target" : "theconversation.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "mingo_1",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "montalbancamila",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Renfe",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "1Dneews1D",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "EiProfeta",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "clarialonsoweb",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MichelleBlanc",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "AliAbunimah",
+		"source_type" : "user",
+		"target" : "972mag.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "jonhutson",
+		"source_type" : "user",
+		"target" : "www.hrw.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "jonhutson",
+		"source_type" : "user",
+		"target" : "www.bbc.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "AndyRaconte",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Josebianco10",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "royalstmagazine",
+		"source_type" : "user",
+		"target" : "www.ibtimes.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "royalstmagazine",
+		"source_type" : "user",
+		"target" : "www.mirror.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "mariadanez",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MiguelG_",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "phillymag",
+		"source_type" : "user",
+		"target" : "www.phillymag.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "wokitoki",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Twitebrio",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "giselle_zm",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "nomfup",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ValeMadr3s",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "RomeRRubio",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TomorrowlandSPA",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DaliaEzzat_",
+		"source_type" : "user",
+		"target" : "english.ahram.org.eg",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "boomerang_live",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "CynthiaHellen",
+		"source_type" : "user",
+		"target" : "www.forbes.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DJ5ALEX",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Patuits",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "mediamuppet",
+		"source_type" : "user",
+		"target" : "www.mediargh.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "femalestreetchildren.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Nadawassef",
+		"source_type" : "user",
+		"target" : "english.ahram.org.eg",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "thelede.blogs.nytimes.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "www.usatoday.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "arabist.net",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "www.madamasr.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "connecttheworld.blogs.cnn.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "www.opendemocracy.net",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "abcnews.go.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "www.bbc.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "www.middle-east-online.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "www.washingtonpost.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "tublani2010",
+		"source_type" : "user",
+		"target" : "www.policymic.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "BiancaJagger",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "tublani2010",
+		"source_type" : "user",
+		"target" : "bahrainrights.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "BiancaJagger",
+		"source_type" : "user",
+		"target" : "www.bbc.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "rushsmith",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "RulesBenitez",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DrEvanHarris",
+		"source_type" : "user",
+		"target" : "hackinginquiry.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "williamsdavila",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "FlordeSomalia",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "BurroSutil",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ValleLYC",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ValleLYC",
+		"source_type" : "user",
+		"target" : "www.erks.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Muremomrus",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Muremomrus",
+		"source_type" : "user",
+		"target" : "ask.fm",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "LeBaronDF",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "yussratt",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "radiovenus",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "LaTdP",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MyriamMonteCruz",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "KAYNASAMET",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "sexiondasso",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Bahrani_Lion",
+		"source_type" : "user",
+		"target" : "www.ebohr.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SnagFilms",
+		"source_type" : "user",
+		"target" : "www.snagfilms.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Cosmoss91",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "yavuzbaydar",
+		"source_type" : "user",
+		"target" : "www.theguardian.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "NABEELRAJAB",
+		"source_type" : "user",
+		"target" : "www.humanrightsfirst.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonCentral",
+		"source_type" : "user",
+		"target" : "www.theguardian.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Yahoo",
+		"source_type" : "user",
+		"target" : "news.yahoo.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "LaFermeJerome",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "YoungKiller94",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "EL_RECICLADOR",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "mangelrogel",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "musica_popular",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JERAUCOLOMBIA",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "StrokeDan",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "www.aawsat.net",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ViernesCrew",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Sie7emusic",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Fiomigliore",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "denisehutterz",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "afpfr",
+		"source_type" : "user",
+		"target" : "www.lequotidien.lu",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "qtejada",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "VanessaBauche",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "UniversalMX",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DoctorNBA",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "cairowire",
+		"source_type" : "user",
+		"target" : "www.egyptindependent.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MovilidadJal",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SusanaTrimarco",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "RamiroLeonel7",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "BaRtoloCod",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SavetChildren",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "reformanacional",
+		"source_type" : "user",
+		"target" : "www.reforma.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "mauneobux",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "GhanimAlnajjar",
+		"source_type" : "user",
+		"target" : "www.traileraddict.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "sipuedessigueme",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JorgeSimoes_",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DijoAdolescente",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "sanabucha",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "fatibee",
+		"source_type" : "user",
+		"target" : "www.bbc.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SAIDYOUSIF",
+		"source_type" : "user",
+		"target" : "bahrainrights.hopto.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "LeonXXI_MX",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "jeffgrant_ct",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TaarekOfficiel",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "shanikberman",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "AmnestyUK",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "musiktippde",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "BBCWorld",
+		"source_type" : "user",
+		"target" : "www.bbc.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "UN",
+		"source_type" : "user",
+		"target" : "www.unog.ch",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "UN",
+		"source_type" : "user",
+		"target" : "webtv.un.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "AJEnglish",
+		"source_type" : "user",
+		"target" : "www.aljazeera.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "NelsonBocaranda",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "noticierovv",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "davidzepeda1",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonNews",
+		"source_type" : "user",
+		"target" : "www.laborrights.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonNews",
+		"source_type" : "user",
+		"target" : "ecowatch.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "YourAnonNews",
+		"source_type" : "user",
+		"target" : "bigstory.ap.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ardinarasti6",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SkyNews",
+		"source_type" : "user",
+		"target" : "news.sky.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "hrw",
+		"source_type" : "user",
+		"target" : "www.ft.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "hrw",
+		"source_type" : "user",
+		"target" : "www.hrw.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "REYKON_",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "amnesty",
+		"source_type" : "user",
+		"target" : "www.amnestyusa.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Flofdez",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "victordrija",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "YahooNews",
+		"source_type" : "user",
+		"target" : "news.yahoo.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "virchugallardo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "marisolglzz",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "shabab6april",
+		"source_type" : "user",
+		"target" : "www.hrw.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SERGESEPULVEDA",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "htTweets",
+		"source_type" : "user",
+		"target" : "www.hindustantimes.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "malditaternura",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "gmanews",
+		"source_type" : "user",
+		"target" : "www.gmanetwork.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SofiaFrancoA",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Cris__U",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MohammedAssaf89",
+		"source_type" : "user",
+		"target" : "webtv.un.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "FJparty",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "nikosofficiel",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Wereverwero",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "frafacchinetti",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Colmenero",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "PiedrahitaLuis",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "henriquelazo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MargaretAtwood",
+		"source_type" : "user",
+		"target" : "africangrandmotherstribunal.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MONYDIAADIA",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "viajaVolaris",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "jeymammon",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "eluniversocom",
+		"source_type" : "user",
+		"target" : "www.eluniverso.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "eluniversocom",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "PipiEstrada1",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Hazem_Azim",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Tururunes",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MarcelaFeudale",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "witnessorg",
+		"source_type" : "user",
+		"target" : "instagram.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "witnessorg",
+		"source_type" : "user",
+		"target" : "focusforchange.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ntvgoficial",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ADRIANAAZZIAS",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Telegraph",
+		"source_type" : "user",
+		"target" : "www.telegraph.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "rcavada",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "CDN37",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JuanfraEscudero",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "mediaguardian",
+		"source_type" : "user",
+		"target" : "www.theguardian.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "EnElAireAB",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "zbleumoon",
+		"source_type" : "user",
+		"target" : "takeaction.amnestyusa.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "IndiaToday",
+		"source_type" : "user",
+		"target" : "indiatoday.intoday.in",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "1Direction_X",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "telva",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Channel4News",
+		"source_type" : "user",
+		"target" : "blogs.channel4.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "tedcoine",
+		"source_type" : "user",
+		"target" : "switchandshift.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "vanguardngrnews",
+		"source_type" : "user",
+		"target" : "www.vanguardngr.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "CRonaldoNews",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Reporte_Indigo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MobilePunch",
+		"source_type" : "user",
+		"target" : "www.punchng.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JulianLopez_",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "gurseltekin34",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Fedez",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "itvnews",
+		"source_type" : "user",
+		"target" : "www.itv.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "abcnews",
+		"source_type" : "user",
+		"target" : "www.abc.net.au",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "lcvelez",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DjChiamaItalia",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TV_Publica",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "orlandourdaneta",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ClaudiaLizaldi",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "BarbarosSansal",
+		"source_type" : "user",
+		"target" : "www.rte.ie",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "emma_marrone",
+		"source_type" : "user",
+		"target" : "www.ebay.it",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "UNESCO",
+		"source_type" : "user",
+		"target" : "uil.unesco.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "www2.ohchr.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "UNrightswire",
+		"source_type" : "user",
+		"target" : "www.un.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "hamletgarcia17",
+		"source_type" : "user",
+		"target" : "vimeo.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "hamletgarcia17",
+		"source_type" : "user",
+		"target" : "www.un.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "julietadiazok",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "NABEELRAJAB",
+		"source_type" : "user",
+		"target" : "www.policymic.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "NABEELRAJAB",
+		"source_type" : "user",
+		"target" : "bahrainrights.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "NABEELRAJAB",
+		"source_type" : "user",
+		"target" : "bahrainrights.hopto.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "NABEELRAJAB",
+		"source_type" : "user",
+		"target" : "www.frontlinedefenders.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "NABEELRAJAB",
+		"source_type" : "user",
+		"target" : "www.fidh.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Librimondadori",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Reyhan_Karaca",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "porliniers",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "miriamsan81",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "LibrodeNotas",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Nexofin",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "coutomayra",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DanielaBlume",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "stanzaselvaggia",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "pmnewsnigeria",
+		"source_type" : "user",
+		"target" : "www.pmnewsnigeria.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TOIIndiaNews",
+		"source_type" : "user",
+		"target" : "timesofindia.indiatimes.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "RicardoAlemanMx",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JohnnyFocal",
+		"source_type" : "user",
+		"target" : "www.huffingtonpost.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Jesus_Es_Dios",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "alejandro_mhr",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MCPietragalla",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "sallesino",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "hossambahgat",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "RFI",
+		"source_type" : "user",
+		"target" : "www.rfi.fr",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "NMenonRao",
+		"source_type" : "user",
+		"target" : "webtv.un.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "YamnaLobos",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Vanzzini",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "3arabawy",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "CACHIS_10260",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "monaeltahawy",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "monaeltahawy",
+		"source_type" : "user",
+		"target" : "english.ahram.org.eg",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "modareforma",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "maria_ressa",
+		"source_type" : "user",
+		"target" : "www.rappler.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ElGuilleGarcia",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "okunification",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SkyAlertMx",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "agarzon",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "CervPresidente",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "dhainternet",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "foreignoffice",
+		"source_type" : "user",
+		"target" : "www.gov.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ForoCandanga",
+		"source_type" : "user",
+		"target" : "www.change.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "BoingBoing",
+		"source_type" : "user",
+		"target" : "boingboing.net",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "GhostyMaher",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "lddio",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "mcaeseoficial",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "GhostyMaher",
+		"source_type" : "user",
+		"target" : "www.hrw.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "taniallasera",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "marcelacoronel",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Woodkid",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "baezfer",
+		"source_type" : "user",
+		"target" : "www.mindmeister.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MissAnalia",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DailyNewsEgypt",
+		"source_type" : "user",
+		"target" : "www.dailynewsegypt.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "thejournal_ie",
+		"source_type" : "user",
+		"target" : "www.thejournal.ie",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "kazaston",
+		"source_type" : "user",
+		"target" : "tinyurl.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Xapime",
+		"source_type" : "user",
+		"target" : "www.change.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "HelloSeahorseMX",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Outconsumer",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Nadiaglory",
+		"source_type" : "user",
+		"target" : "www.washingtonpost.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Nadiaglory",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "LAMATERIALISTA1",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DavidSummersHG",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "OccupyWallStNYC",
+		"source_type" : "user",
+		"target" : "972mag.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DrBrianMay",
+		"source_type" : "user",
+		"target" : "epetitions.direct.gov.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "RaulGomez82",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MunaAbuSulayman",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "salvosottile",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TheFantasio974",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "LassanaDiarra_",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "AlvaroAlvaradoC",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "hafezabuseada",
+		"source_type" : "user",
+		"target" : "ifex.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "HackedOffHugh",
+		"source_type" : "user",
+		"target" : "hackinginquiry.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "KeairaLaShae",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "el_audiman",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ajam",
+		"source_type" : "user",
+		"target" : "live.america.aljazeera.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ajam",
+		"source_type" : "user",
+		"target" : "twitter.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ajam",
+		"source_type" : "user",
+		"target" : "america.aljazeera.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Zeinobia",
+		"source_type" : "user",
+		"target" : "advocacy.globalvoicesonline.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "thetimes",
+		"source_type" : "user",
+		"target" : "www.thetimes.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "fernandosolanas",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JCTapiaLMB",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "renenaranjo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "eliaspino",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "LuciaGil_Gil",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "conozcamas",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "generacion_12",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MarianaAndradeB",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "OfficialFacts1D",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "GenPenaloza",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MiguelCarbonell",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "uterope",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ComandoGuayana",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Mecomotusganas",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "jeune_afrique",
+		"source_type" : "user",
+		"target" : "www.jeuneafrique.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "UgglyCursi",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DomingoBacalao",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MOH2SS",
+		"source_type" : "user",
+		"target" : "www.change.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JPelirrojo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "hossambahgat",
+		"source_type" : "user",
+		"target" : "english.ahram.org.eg",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "kavanaghanthony",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Paisajesmuchos",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MrBboy45",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "dna",
+		"source_type" : "user",
+		"target" : "www.dnaindia.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DiegoUbierna",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "AFP",
+		"source_type" : "user",
+		"target" : "news.yahoo.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MessageToVenus",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "RiskRank",
+		"source_type" : "user",
+		"target" : "freedomwatch.ipa.org.au",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "40ChileOficial",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "alvarobenitopig",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Telemedellin",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "iamrayrockz",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ALBERTOSTYLEE",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "nationnews",
+		"source_type" : "user",
+		"target" : "www.nationmultimedia.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "BreitbartNews",
+		"source_type" : "user",
+		"target" : "www.breitbart.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JdeJodido",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "princehandley",
+		"source_type" : "user",
+		"target" : "www.persecution.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "peclaveria",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "IvonneOP",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "zimbabwekid",
+		"source_type" : "user",
+		"target" : "zimbabwekid.ning.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Ikhwanweb",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Ikhwanweb",
+		"source_type" : "user",
+		"target" : "english.ahram.org.eg",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "CachoMakeUp",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "itspetergabriel",
+		"source_type" : "user",
+		"target" : "www.humanrightsconcerts.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "danyturcotte",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "_PeterGriffinES",
+		"source_type" : "user",
+		"target" : "www.gatwin.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "_PeterGriffinES",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Yeilove",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ReinhardBonnke",
+		"source_type" : "user",
+		"target" : "www.facebook.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "carvajalinop",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "conycamelo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "RicardoSanchezX",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "churerocom",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "letyclub",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "DavidMorales_tv",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "noticias4vision",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "sherryrehman",
+		"source_type" : "user",
+		"target" : "www.hrw.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Srcheeto",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "difamadores",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "CarmeBarcelo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "bencnn",
+		"source_type" : "user",
+		"target" : "www.amnestyusa.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ZPU",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "soyluisricardo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ElOgni",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "RobertAlai",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "GonzaloGarVi",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "fechu",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Arash",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "acarvin",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "SkiperRamirez",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "trafficMcbo",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "marcelaamq",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "husainhaqqani",
+		"source_type" : "user",
+		"target" : "www.amnesty.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "AnaAliciaAlbaVV",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ventsmagazine",
+		"source_type" : "user",
+		"target" : "ventsmagazine.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "adslzone",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "ACMilanArab",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "usembassymanila",
+		"source_type" : "user",
+		"target" : "www.un.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "davidfrum",
+		"source_type" : "user",
+		"target" : "www.washingtonpost.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "viviananunes",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Contravia",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MARYAMALKHAWAJA",
+		"source_type" : "user",
+		"target" : "www.policymic.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MARYAMALKHAWAJA",
+		"source_type" : "user",
+		"target" : "www.humanrightsfirst.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TeamLatinJustin",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "PlayStationFR",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "YosStoP",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "KatrinaNation",
+		"source_type" : "user",
+		"target" : "www.thenation.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Indiegogo",
+		"source_type" : "user",
+		"target" : "www.indiegogo.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "KatrinaNation",
+		"source_type" : "user",
+		"target" : "www.washingtonpost.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "futbolecuador",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "Nyno_SBR",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "WOLFINE98",
+		"source_type" : "user",
+		"target" : "www.youtube.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "wikinoticias",
+		"source_type" : "user",
+		"target" : "eldeforma.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "STVNews",
+		"source_type" : "user",
+		"target" : "news.stv.tv",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "mintel2011",
+		"source_type" : "user",
+		"target" : "rightscampaign.blogspot.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MohdMaskati",
+		"source_type" : "user",
+		"target" : "p.ost.im",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "MarkSteynOnline",
+		"source_type" : "user",
+		"target" : "freedomwatch.ipa.org.au",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "beenasarwar",
+		"source_type" : "user",
+		"target" : "fouziasaeed.wordpress.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.winnipegfreepress.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "TWTraderCom",
+		"source_type" : "user",
+		"target" : "www.lancashiretelegraph.co.uk",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "PeterTatchell",
+		"source_type" : "user",
+		"target" : "www.petertatchellfoundation.org",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "royalstmagazine",
+		"source_type" : "user",
+		"target" : "www.newstrackindia.com",
+		"target_type" : "domain",
+		"count" : 1
+	},
+	{
+		"source" : "JorgeBenezra",
+		"source_type" : "user",
+		"target" : "internacional.elpais.com",
+		"target_type" : "domain",
+		"count" : 1
+	}
+]
